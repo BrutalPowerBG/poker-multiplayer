@@ -1,0 +1,484 @@
+﻿dc218b335b1d14cd5ae532f65042d829|Editor Default Resources\Firebase\fb_analytics.png.meta
+9fe4b3bd3b7d2477dac92fb7429d1d1b|Editor Default Resources\Firebase\fb_analytics_dark.png.meta
+394b3ec4d60c24476a12e4ba696d9e5d|Editor Default Resources\Firebase\fb_auth.png.meta
+3a9e1ef6287664c389bb09e2ac1b23b7|Editor Default Resources\Firebase\fb_auth_dark.png.meta
+837e8e1f35e334e81931d0857680cebf|Editor Default Resources\Firebase\fb_cloud_messaging.png.meta
+20c5b8a1f82cb4aadb77ca20683d2a6e|Editor Default Resources\Firebase\fb_cloud_messaging_dark.png.meta
+415eaec414af14d11955222a282aca08|Editor Default Resources\Firebase\fb_config.png.meta
+0ad9ef5fff5524355a9670c90a99cbba|Editor Default Resources\Firebase\fb_config_dark.png.meta
+008a5e76206e49f9b06d8ba144aabb38|Editor Default Resources\Firebase\fb_crashlytics.png.meta
+214009068900439da4a9cded17d58090|Editor Default Resources\Firebase\fb_crashlytics_dark.png.meta
+3eea7b558c67b48e18acf3c278392e3d|Editor Default Resources\Firebase\fb_database.png.meta
+9f6bfa9d8aefb40dc92461c372c73b0f|Editor Default Resources\Firebase\fb_database_dark.png.meta
+953367231f9e3e22e70e5d1c91a40fe5|Editor Default Resources\Firebase\fb_functions.png.meta
+b5aa3e4f7432e1c5698417cc13f85271|Editor Default Resources\Firebase\fb_functions_dark.png.meta
+573eb851c99f948f4bf2de49322bfd53|Editor Default Resources\Firebase\fb_storage.png.meta
+2955864b938094f579ea9902b65ac10c|Editor Default Resources\Firebase\fb_storage_dark.png.meta
+9f058f25e8e2d47cfb894951d4d7e48a|Editor Default Resources\Firebase\firebase_lockup.png.meta
+b93330fc8ea08407dbc514b5101afa14|Editor Default Resources\Firebase\firebase_lockup_dark.png.meta
+1af6555e31905fe4daf571bfe3db69b2|Editor Default Resources\Firebase.meta
+81a757c73e784317b917c61d213fb409|ExternalDependencyManager\Editor\1.2.187\Google.IOSResolver.dll.meta
+41c90e40b1f446e3a7a78511ec9dc29a|ExternalDependencyManager\Editor\1.2.187\Google.IOSResolver.pdb.meta
+7f5716a99eb1476d9ee5f077d6b54c11|ExternalDependencyManager\Editor\1.2.187\Google.JarResolver.dll.meta
+fc3a620e92284458bd5f6f314dcaaf06|ExternalDependencyManager\Editor\1.2.187\Google.JarResolver.pdb.meta
+ebc81d44045a4533903ae8d80e189cd4|ExternalDependencyManager\Editor\1.2.187\Google.PackageManagerResolver.dll.meta
+dfe1264154774d709896e750e01d4d14|ExternalDependencyManager\Editor\1.2.187\Google.PackageManagerResolver.pdb.meta
+f5fc7702bb5f4ba8a2f5bf02b99beb09|ExternalDependencyManager\Editor\1.2.187\Google.VersionHandlerImpl.dll.meta
+631695c6f49c48f98c72b46e1ab6c1f7|ExternalDependencyManager\Editor\1.2.187\Google.VersionHandlerImpl.pdb.meta
+6bca65c09637fa243a311b5a9763f49d|ExternalDependencyManager\Editor\1.2.187.meta
+ff38baa7337e404f8a2bb7852f8f731a|ExternalDependencyManager\Editor\CHANGELOG.md.meta
+5fb8a7aa9dba440483d41094ce520bd5|ExternalDependencyManager\Editor\external-dependency-manager_version-1.2.187_manifest.txt.meta
+e2c97f7cb0534972a32514c0bf4b4f48|ExternalDependencyManager\Editor\Google.VersionHandler.dll.meta
+cbab6e3b50154cd08ced6efe6a0140a5|ExternalDependencyManager\Editor\Google.VersionHandler.pdb.meta
+eca58a95d98c4fc297d3ad17b7bf24c6|ExternalDependencyManager\Editor\LICENSE.meta
+db858ca0dc4e44d79fe00e9d1a428eba|ExternalDependencyManager\Editor\README.md.meta
+bfc79df4018279b41a140d30d570ca58|ExternalDependencyManager\Editor.meta
+1e3c2da79be842cd838a9ddd70d20fa9|Firebase\Editor\AnalyticsDependencies.xml.meta
+9b63af95d9364af4a3d8ce58738b6223|Firebase\Editor\AppDependencies.xml.meta
+2bec2bf8d84d4997ba2dd66263781f3d|Firebase\Editor\AuthDependencies.xml.meta
+9f2edbf81053418f879076c05f816dc2|Firebase\Editor\Firebase.Editor.dll.meta
+f2ceb9c446ee4196b6476d4978a416b6|Firebase\Editor\Firebase.Editor.pdb.meta
+a9a3a847307045ea83fa26ebe0fee848|Firebase\Editor\FirebaseAnalytics_version-13.11.0_manifest.txt.meta
+a36e32d19b7a4835a9e4256d20d88993|Firebase\Editor\FirebaseAuth_version-13.11.0_manifest.txt.meta
+1b2e31ab3ab64e50ab365facfd4d5980|Firebase\Editor\FirebaseFirestore_version-13.11.0_manifest.txt.meta
+9572ebd27fce4f80a55ba68236bd4204|Firebase\Editor\FirebaseFunctions_version-13.11.0_manifest.txt.meta
+3b9f1461a6c64af7bbb9a59b09ebdc7e|Firebase\Editor\FirestoreDependencies.xml.meta
+ae88c0972b7448b5b36def1716f1d711|Firebase\Editor\generate_xml_from_google_services_json.exe.meta
+8f18ed76c0f04ce0a65736104f913ef8|Firebase\Editor\generate_xml_from_google_services_json.py.meta
+d640bc2403824e5599315e0050b99aeb|Firebase\FirebaseApp\Internal\AssemblyInfo.cs.meta
+9b4ce77d2be44f25af03d4cbf9bee9f9|Firebase\FirebaseApp\Internal\Firebase.App.Internal.asmdef.meta
+bc30602676ea492eab91b6ff7cd6ba3b|Firebase\FirebaseApp\Internal\FirebaseInterops.cs.meta
+edaf55a8a9944057852d797b4558bf8a|Firebase\FirebaseApp\Internal\HttpHelpers.cs.meta
+178c4b1924574f9c95f7a7f28adfd218|Firebase\FirebaseApp\Internal\link.xml.meta
+155c9f5b2c7546948aba1cc8e0d90ad3|Firebase\FirebaseApp\Internal.meta
+41ecdc2006a747c9a564e0322bccc69b|Firebase\FirebaseFunctions\Internal\FunctionsErrorParser.cs.meta
+e541bc156dab48618e0d59f285ec37cd|Firebase\FirebaseFunctions\Internal\FunctionsSerializer.cs.meta
+23f94e0315c943e2a3a28b39da318313|Firebase\FirebaseFunctions\Firebase.Functions.asmdef.meta
+43ac7ac9a9bf40d99085cf17989cf7f8|Firebase\FirebaseFunctions\FirebaseFunctions.cs.meta
+4b5517e5a98f42bbbcd05834d98cbc5a|Firebase\FirebaseFunctions\FunctionsErrorCodes.cs.meta
+eafe7c78c38e4ec6a97bc9b60c8db44a|Firebase\FirebaseFunctions\FunctionsException.cs.meta
+adaffa7f07b04ac5aae3cd048ec370ad|Firebase\FirebaseFunctions\HttpsCallableOptions.cs.meta
+4ec2177516074a0f8babfb6c6fb8248d|Firebase\FirebaseFunctions\HttpsCallableReference.cs.meta
+bee4e914d1a4495bb74f509454f694fb|Firebase\FirebaseFunctions\HttpsCallableResult.cs.meta
+362cfa4754955504a9fd259b45492a44|Firebase\FirebaseFunctions\Internal.meta
+0d9ced3aa58945fc8070f0f6f47d70e8|Firebase\m2repository\com\google\firebase\firebase-analytics-unity\13.11.0\firebase-analytics-unity-13.11.0.pom.meta
+7318e9942fbb40baa0a1b2827b4f58a6|Firebase\m2repository\com\google\firebase\firebase-analytics-unity\13.11.0\firebase-analytics-unity-13.11.0.srcaar.meta
+f05c4341d9cbb924382972120527a1e4|Firebase\m2repository\com\google\firebase\firebase-analytics-unity\13.11.0.meta
+291f81d8ae2745cf913a96d116f2e3f7|Firebase\m2repository\com\google\firebase\firebase-analytics-unity\maven-metadata.xml.meta
+0e51fdd3bd6d41c08f9ba308741fa971|Firebase\m2repository\com\google\firebase\firebase-app-unity\13.11.0\firebase-app-unity-13.11.0.pom.meta
+0ee3164025b44a37be407e71ecde7bdd|Firebase\m2repository\com\google\firebase\firebase-app-unity\13.11.0\firebase-app-unity-13.11.0.srcaar.meta
+da58fe29b49edf946a5b396bc9afcb85|Firebase\m2repository\com\google\firebase\firebase-app-unity\13.11.0.meta
+96337775a7c941d88ea15f8026ad6f8e|Firebase\m2repository\com\google\firebase\firebase-app-unity\maven-metadata.xml.meta
+36a7bf9396344bc68929c490a4979882|Firebase\m2repository\com\google\firebase\firebase-auth-unity\13.11.0\firebase-auth-unity-13.11.0.pom.meta
+23bc4b91b953416dae0234a4efa7da6a|Firebase\m2repository\com\google\firebase\firebase-auth-unity\13.11.0\firebase-auth-unity-13.11.0.srcaar.meta
+c487d0d68cc39d74d966ae8eed32dfa7|Firebase\m2repository\com\google\firebase\firebase-auth-unity\13.11.0.meta
+397f194fd08a4159906375d8838517fc|Firebase\m2repository\com\google\firebase\firebase-auth-unity\maven-metadata.xml.meta
+6768d0d854e7488ea7e4f0bad0657ca4|Firebase\m2repository\com\google\firebase\firebase-firestore-unity\13.11.0\firebase-firestore-unity-13.11.0.pom.meta
+a5928a24443641b98e4fedcab07a7804|Firebase\m2repository\com\google\firebase\firebase-firestore-unity\13.11.0\firebase-firestore-unity-13.11.0.srcaar.meta
+0686aad27f69c7c489c385b7457ff9dd|Firebase\m2repository\com\google\firebase\firebase-firestore-unity\13.11.0.meta
+a4c493633d9146f99c8f31b579c15a09|Firebase\m2repository\com\google\firebase\firebase-firestore-unity\maven-metadata.xml.meta
+010101a761e299e4aa665179b8cb4fd1|Firebase\m2repository\com\google\firebase\firebase-analytics-unity.meta
+924d41ebe0a5f774bb01d83de8499817|Firebase\m2repository\com\google\firebase\firebase-app-unity.meta
+5925306b5ac4dfa4cab440fcd09c87bf|Firebase\m2repository\com\google\firebase\firebase-auth-unity.meta
+7bf5772b04e7a8342b0fbcbc8ee8aa09|Firebase\m2repository\com\google\firebase\firebase-firestore-unity.meta
+f4fcd8e06c3d9714ea2eeca0d36a79f8|Firebase\m2repository\com\google\firebase.meta
+31718a511cb380443827303e33fe55b8|Firebase\m2repository\com\google.meta
+6605470677f41e44da46afe6800aebd0|Firebase\m2repository\com.meta
+52718a3a80d44aacb368bcc9d62dd804|Firebase\Plugins\iOS\Firebase.Analytics.dll.meta
+e0a3fec4e6044b70added51eb3d310ee|Firebase\Plugins\iOS\Firebase.Analytics.pdb.meta
+5f3feda1a91343759b7eb58a29b492b7|Firebase\Plugins\iOS\Firebase.App.dll.meta
+e96748f6edd2467b95622dee98523c65|Firebase\Plugins\iOS\Firebase.App.pdb.meta
+d98038090b9740a08a3877529f9ea69d|Firebase\Plugins\iOS\Firebase.Auth.dll.meta
+1e2d4187fd0d4ec4921481b6dda0826c|Firebase\Plugins\iOS\Firebase.Auth.pdb.meta
+153ea3bf2adc4ebd843e94004af375f2|Firebase\Plugins\iOS\Firebase.Firestore.dll.meta
+c0bd99aa14534ba59c09757886947eaa|Firebase\Plugins\iOS\Firebase.Firestore.pdb.meta
+35bfcced25264151bd76b628a1dfa989|Firebase\Plugins\x86_64\FirebaseCppAnalytics.bundle.meta
+c48626ae27ed478483ba85fd7c81c04b|Firebase\Plugins\x86_64\FirebaseCppAnalytics.dll.meta
+590090df30d142acba7e7be939fd2988|Firebase\Plugins\x86_64\FirebaseCppAnalytics.so.meta
+e28ad7b28ca9476bb48b1b3c8e16f9e0|Firebase\Plugins\x86_64\FirebaseCppApp-13_11_0.bundle.meta
+ae2855431e47456eb96dde4d8734cbb4|Firebase\Plugins\x86_64\FirebaseCppApp-13_11_0.dll.meta
+a89a0cc40d794066acbe6012ab42e397|Firebase\Plugins\x86_64\FirebaseCppApp-13_11_0.so.meta
+5e37ea1972a64af9897f5fab651a5323|Firebase\Plugins\x86_64\FirebaseCppAuth.bundle.meta
+05faff41310d42b1b623c09a22aa53ff|Firebase\Plugins\x86_64\FirebaseCppAuth.dll.meta
+a4d0f2c2a6ca44528c55eb26d36f25d6|Firebase\Plugins\x86_64\FirebaseCppAuth.so.meta
+3f2b339824fb4525a1e6e0ecad5fd5b2|Firebase\Plugins\x86_64\FirebaseCppFirestore.bundle.meta
+f07768654ca046879bf8e2e0b8b3efec|Firebase\Plugins\x86_64\FirebaseCppFirestore.dll.meta
+32cf7cf5c81a4437b9335b413b98d5e5|Firebase\Plugins\x86_64\FirebaseCppFirestore.so.meta
+816270c2a2a348e59cb9b7b096a24f50|Firebase\Plugins\Firebase.Analytics.dll.meta
+778e0739eb634ac6beb8b1dbac5d17f0|Firebase\Plugins\Firebase.Analytics.pdb.meta
+7311924048bd457bac6d713576c952da|Firebase\Plugins\Firebase.App.dll.meta
+44907853a9e64be4a31076a763ae13b3|Firebase\Plugins\Firebase.App.pdb.meta
+275bd6b96a28470986154b9a995e191c|Firebase\Plugins\Firebase.Auth.dll.meta
+9f97da8d51fc402d811b543c1efe46ff|Firebase\Plugins\Firebase.Auth.pdb.meta
+9bbe20a4d3384138ba2bb7a01a78dfd2|Firebase\Plugins\Firebase.Firestore.dll.meta
+e5cd172f61404f2abde684c2ea496d66|Firebase\Plugins\Firebase.Firestore.pdb.meta
+7d3eec03d7e241a48941e038118c5e6a|Firebase\Plugins\Firebase.Platform.dll.meta
+af8fc0c835824578b855d4c0ed7b16ab|Firebase\Plugins\Firebase.Platform.pdb.meta
+f5d4069c578548ba9f199b46d61bf06d|Firebase\Plugins\Firebase.TaskExtension.dll.meta
+736717de9e57417d930d929ac556b287|Firebase\Plugins\Firebase.TaskExtension.pdb.meta
+3ebb289656f1477fa263e62d36c6e329|Firebase\Plugins\Google.MiniJson.dll.meta
+df1d0ab8857bd4148ac825adbcc70a7a|Firebase\Plugins\iOS.meta
+527a81fe7a9dbff4593332536eae9778|Firebase\Plugins\x86_64.meta
+2e264d2c9f8f43c4dad99c9c23315f5b|Firebase\Editor.meta
+e645a5509872a484f8cd47a1408296da|Firebase\FirebaseApp.meta
+8cb763f4ac644a942830645c6a916537|Firebase\FirebaseFunctions.meta
+319da9c74268d6443937277c0ebf7ad3|Firebase\google-services.json.meta
+b8fcf8a3851af0246a32e69f8611b07e|Firebase\m2repository.meta
+b56313d67c58e104d9bf4d5de83c129a|Firebase\Plugins.meta
+b0e5bd22635961040a96c057675552f9|GeneratedLocalRepo\Firebase\m2repository\com\google\firebase\firebase-analytics-unity\13.11.0\firebase-analytics-unity-13.11.0.aar.meta
+b2a5df6a3207d1c43afa8ab200c249f2|GeneratedLocalRepo\Firebase\m2repository\com\google\firebase\firebase-analytics-unity\13.11.0\firebase-analytics-unity-13.11.0.pom.meta
+2ead5e5cd5cc1e747b86aa18a44367eb|GeneratedLocalRepo\Firebase\m2repository\com\google\firebase\firebase-analytics-unity\13.11.0.meta
+3e5041edc575fcb439aa32b1574b589c|GeneratedLocalRepo\Firebase\m2repository\com\google\firebase\firebase-app-unity\13.11.0\firebase-app-unity-13.11.0.aar.meta
+ae7a05c765b0dd042a095cfd368b98c4|GeneratedLocalRepo\Firebase\m2repository\com\google\firebase\firebase-app-unity\13.11.0\firebase-app-unity-13.11.0.pom.meta
+e3dc619c412b0f74e97374748541edcc|GeneratedLocalRepo\Firebase\m2repository\com\google\firebase\firebase-app-unity\13.11.0.meta
+467d3d0c5b8620c4cac970e756bc57cf|GeneratedLocalRepo\Firebase\m2repository\com\google\firebase\firebase-auth-unity\13.11.0\firebase-auth-unity-13.11.0.aar.meta
+4df9717ec36dc554d8a79b33e7427f3a|GeneratedLocalRepo\Firebase\m2repository\com\google\firebase\firebase-auth-unity\13.11.0\firebase-auth-unity-13.11.0.pom.meta
+9a535244db7e2ed49b1414b0f3571666|GeneratedLocalRepo\Firebase\m2repository\com\google\firebase\firebase-auth-unity\13.11.0.meta
+6afc36f43684c594887ac22601269b60|GeneratedLocalRepo\Firebase\m2repository\com\google\firebase\firebase-firestore-unity\13.11.0\firebase-firestore-unity-13.11.0.aar.meta
+5ad8c7d568982694bb7a8a8bbd3a7087|GeneratedLocalRepo\Firebase\m2repository\com\google\firebase\firebase-firestore-unity\13.11.0\firebase-firestore-unity-13.11.0.pom.meta
+230b1c61c6665044a9b8176731eb1034|GeneratedLocalRepo\Firebase\m2repository\com\google\firebase\firebase-firestore-unity\13.8.0\firebase-firestore-unity-13.8.0.aar.meta
+6a2aada95a8c48345bf784e875049541|GeneratedLocalRepo\Firebase\m2repository\com\google\firebase\firebase-firestore-unity\13.8.0\firebase-firestore-unity-13.8.0.pom.meta
+0c01e7efe11e54b479942e51cf56ed9f|GeneratedLocalRepo\Firebase\m2repository\com\google\firebase\firebase-firestore-unity\13.11.0.meta
+cd58227224fbcc2409b86cbda858b0a5|GeneratedLocalRepo\Firebase\m2repository\com\google\firebase\firebase-firestore-unity\13.8.0.meta
+54ed17732a44026478e1c7157a6f9ae7|GeneratedLocalRepo\Firebase\m2repository\com\google\firebase\firebase-analytics-unity.meta
+8f06c95fb71a8534d8e9a9a5a4f6f8bc|GeneratedLocalRepo\Firebase\m2repository\com\google\firebase\firebase-app-unity.meta
+ceb21d25e8ef8a54db29de5157b135f7|GeneratedLocalRepo\Firebase\m2repository\com\google\firebase\firebase-auth-unity.meta
+271f34bc986000d42907bbae0af550da|GeneratedLocalRepo\Firebase\m2repository\com\google\firebase\firebase-firestore-unity.meta
+af481ea1a5c28bd44a3ea467b3f310f7|GeneratedLocalRepo\Firebase\m2repository\com\google\firebase.meta
+e07f10b28cca6784ca59da16ac6a5417|GeneratedLocalRepo\Firebase\m2repository\com\google.meta
+2df0cc153e3c67f4e84e4c0382ecbdbb|GeneratedLocalRepo\Firebase\m2repository\com.meta
+ca5b15f70a8954b42b0d1e056f44e72d|GeneratedLocalRepo\Firebase\m2repository.meta
+c474a230a813fd04e9bf7667ca5785cc|GeneratedLocalRepo\Firebase.meta
+9d201d8fdcbcf844aba39febc37f51e2|LobbyTutorial\InputWindow\Scripts\UI_Blocker.cs.meta
+1532ecaaa13cab84b8a82192b2f8cc0b|LobbyTutorial\InputWindow\Scripts\UI_InputWindow.cs.meta
+34d65cf600249fb4e9dcfd3de78a47d9|LobbyTutorial\InputWindow\Textures\Border.png.meta
+4af903dfe827749449894baaffa18f1b|LobbyTutorial\InputWindow\Textures\White_1x1.png.meta
+d94a9e5c4c9e38545a37fbe0ccc72ba8|LobbyTutorial\InputWindow\Scripts.meta
+7eb9dccf3771cbc429aa904108888e63|LobbyTutorial\InputWindow\Textures.meta
+8a2917d3ce187824fad93ad7e3795753|LobbyTutorial\InputWindow\UI_InputWindow.prefab.meta
+ed492d4d511c71e4ebfa9b296d400b88|LobbyTutorial\Scripts\Editor\LobbyManagerEditor.cs.meta
+e62dad883f69d8744897d642d8f21378|LobbyTutorial\Scripts\AuthenticateUI.cs.meta
+7bda85522dbab0a4d80968d2c242b87e|LobbyTutorial\Scripts\Editor.meta
+a58f2a8109a04874691bbc6efef8d0b3|LobbyTutorial\Scripts\EditPlayerName.cs.meta
+12a2b5fc643feeb479b574aa496a525e|LobbyTutorial\Scripts\LobbyCreateUI.cs.meta
+2650e426a4807974e965c98cfbd06660|LobbyTutorial\Scripts\LobbyData.cs.meta
+e337cb0ba2507784da6f315a8a46d079|LobbyTutorial\Scripts\LobbyListSingleUI.cs.meta
+a1c657aa120c4114fbbcb24fd9d206e2|LobbyTutorial\Scripts\LobbyListUI.cs.meta
+a14259dc4bfdeef4db5654c97251127d|LobbyTutorial\Scripts\LobbyManager.cs.meta
+b3934507b37018c4880b82115e2ce40d|LobbyTutorial\Scripts\LobbyPlayerSingleUI.cs.meta
+5e804e440942b4f4ead7f8d484203ff6|LobbyTutorial\Scripts\LobbyScreenManager.cs.meta
+f6277d275dd185f4bb3bdd693f3d77f8|LobbyTutorial\Scripts\LobbyUI.cs.meta
+865c805c66aa41246a630c1dacbff7f9|LobbyTutorial\Scripts\PlayerAssets.cs.meta
+25940f5ac153198439c1fb26fc07e189|LobbyTutorial\Scripts\PlayerNameData.cs.meta
+c96884e1860e29243aac90f6decb571f|LobbyTutorial\Scripts\ProfileUI.cs.meta
+8852e50958886544990d68fcb2cea0a3|LobbyTutorial\Scripts\StartGameManager.cs.meta
+ea9717334381faf4fb1551f05134ef73|LobbyTutorial\Scripts\TabGroup.cs.meta
+51f1d72cad4c5db4793771bbba058a2f|LobbyTutorial\Textures\Arrow_2.png.meta
+7faaaf2eb8d6bf14b8991f53964ccb67|LobbyTutorial\Textures\FlagIcon.png.meta
+240eb4a97d89aae43901c05b8a491568|LobbyTutorial\Textures\MarineHead.png.meta
+d7413f52dd32f194ba85ccc2f0732881|LobbyTutorial\Textures\NinjaHead.png.meta
+12e57226f73abe947ba7a62367ac78f4|LobbyTutorial\Textures\PlusIcon.png.meta
+b024109654b1a5443a05789afd83e27f|LobbyTutorial\Textures\RefreshIcon.png.meta
+ec1c53200d7e385428ee41fb94009d87|LobbyTutorial\Textures\ZombieHead.png.meta
+af14dc331a552da42b27623472ac62b3|LobbyTutorial\InputWindow.meta
+be8200a558cfff84b8ce074fa6e33558|LobbyTutorial\Lobby.unity.meta
+e93f996b895223a4ea04ddf74e511744|LobbyTutorial\Scripts.meta
+fa9a46d8d1d8c1f40945e5291b5106e9|LobbyTutorial\Textures.meta
+e3ebdd66ebf3a7f48baf003287492f42|Plugins\Android\FirebaseApp.androidlib.meta
+73d902d0394e06d47abad28391662199|Plugins\Android\gradleTemplate.properties.meta
+1282aa07e8d62d640938fa8cac4dd9a8|Plugins\Android\mainTemplate.gradle.meta
+916afad9af7efe842a0c0e2b74340a79|Plugins\Android\settingsTemplate.gradle.meta
+bf523cc64d194963aa7661e7d2944feb|Plugins\iOS\Firebase\libFirebaseCppAnalytics.a.meta
+601e8e1d2d2744929ede33676cbeccc0|Plugins\iOS\Firebase\libFirebaseCppApp.a.meta
+44a214618eb6473db34d3808eb040cfb|Plugins\iOS\Firebase\libFirebaseCppAuth.a.meta
+8c435bd7dd2d4aaf91f65175b40ccf58|Plugins\iOS\Firebase\libFirebaseCppFirestore.a.meta
+caa800e0e737e1e4f96e1176acb85c8c|Plugins\iOS\Firebase.meta
+dafd86296e04aa245abade4d6bca4f8a|Plugins\iOS\GoogleService-Info.plist.meta
+8aa59edc9bec4e45acabc30173a8beaa|Plugins\tvOS\Firebase\libFirebaseCppAnalytics.a.meta
+46cff64d2cc446bb8fb0137f39fbbf57|Plugins\tvOS\Firebase\libFirebaseCppApp.a.meta
+255f60ef05484a71a135c57cce9d6fc7|Plugins\tvOS\Firebase\libFirebaseCppAuth.a.meta
+d17c0de66ad342e1b03c7045e942545e|Plugins\tvOS\Firebase\libFirebaseCppFirestore.a.meta
+bf9c26ca6ddb6a24ca388210a352559c|Plugins\tvOS\Firebase.meta
+4ba54e28ade8d154ab506e7d8638d55e|Plugins\Android.meta
+8cf755afc557ac2498b42e6920073f66|Plugins\iOS.meta
+e5711445cddc7d14c91c43c49a5228ba|Plugins\tvOS.meta
+2dd84c3eeeaa5e64591f68338038b69e|Poker\Audio\all_in.mp3.meta
+2f8e9ec9b8b919140a7396d51f60fc1a|Poker\Audio\call.mp3.meta
+18b1c302997ccb84fae7099d65cefb9d|Poker\Audio\call_2.mp3.meta
+a949321808d4ca9428a79a8efee41e5b|Poker\Audio\card_dealt_1.mp3.meta
+ee76a6d23cdc7ee4cb54dab16fbfcfdd|Poker\Audio\card_dealt_2.mp3.meta
+253d0c45f1c1cd24ba3f02ee04caf65f|Poker\Audio\card_dealt_3.mp3.meta
+dddf20c3a43151b469d372ad140a8489|Poker\Audio\card_dealt_4.mp3.meta
+5359a8527ac998049bb79c66189fec3a|Poker\Audio\card_dealt_5.mp3.meta
+150d5a5f05400e346b97b26b5b055ae5|Poker\Audio\check.mp3.meta
+7f0b36762e333f14285dfbfd9e8326c4|Poker\Audio\ding.mp3.meta
+b17a2c2b196f74c4dad5add06e553759|Poker\Audio\fold_1.mp3.meta
+ad2b3e36d5a327b49907f7706d960cf0|Poker\Audio\fold_2.mp3.meta
+aec6c7b3a463a0545b5806584f18b3b3|Poker\Audio\raise_mid.mp3.meta
+15dc0cb2552827441bca04fa2a3fb67d|Poker\Audio\raise_min.mp3.meta
+861a331cbf355d246a517051fccb9695|Poker\Audio\shuffle.mp3.meta
+6c9146f9e6239f5448aef76a4ec14d7f|Poker\Audio\time_out.mp3.meta
+0f18c43354d0ae14192d930a0afa1004|Poker\Audio\win_chips.mp3.meta
+9b7a418684d76c049a7cba0fc507db85|Poker\PokerGameScene\LightingData.asset.meta
+ea197bbfbf571e948a23c81a500cc39f|Poker\PokerGameScene\ReflectionProbe-0.exr.meta
+40026b6880474ee498b0b3ab3da4241e|Poker\Prefabs\Card 1.prefab.meta
+d2febc7cfae617147a1855dcb8c5afea|Poker\Prefabs\Card in hand.prefab.meta
+f3b437d6729d85f458beaedab7c2580e|Poker\Prefabs\GameSessionEntryUI.prefab.meta
+3ed097000d4fa09449cb823c690b435b|Poker\Prefabs\GameSessionPlayerEntry.prefab.meta
+fe332932b02b59c49bb19a9ef4fe697d|Poker\Prefabs\HandEntryUI.prefab.meta
+76c0c5924bee4e14781d91ba3a347a41|Poker\Prefabs\Player slot 1.prefab.meta
+ce48dbd81822a614092c874ebb593fdf|Poker\Prefabs\Pot.prefab.meta
+929e0d817cde0964cbdabd2558ac145e|Poker\Prefabs\Profile image (1).prefab.meta
+db56a220a796fdc49a3be8d2eebf43a2|Poker\Scripts\Editor\CardThemeEditor.cs.meta
+8b91d806449ba9e44a1c1b33eaf027b0|Poker\Scripts\Editor\CardUIEditor.cs.meta
+7a3c8e9f2b4d6a1c8e5f9d2a3b7c4e8f|Poker\Scripts\Editor\GameManagerEditor.cs.meta
+bec7c8d201de2e342bd1ee46a28ebdd6|Poker\Scripts\Editor\PlayerSlotUIEditor.cs.meta
+c9e6d12f758da48449269cc39022957b|Poker\Scripts\Firebase\FirebaseManager.cs.meta
+b46c056d81e8d2e479dddcfb0a9701c8|Poker\Scripts\Firebase\FirestoreHandHistory.cs.meta
+8e13337258190a74f8de65c5edf1e92f|Poker\Scripts\UnityCloud\CloudSaveHandHistory.cs.meta
+9d4e42279d7ac5a4fb120e71c1864f44|Poker\Scripts\UnityCloud\UnityCloudManager.cs.meta
+6c58edf328780d444acec952e5e5afca|Poker\Scripts\AudioSettingsUI.cs.meta
+db3541f6fc1040445b5001fde5dfa0a8|Poker\Scripts\BuyIn.cs.meta
+c8b31196c042f714e98400dc46d98fd1|Poker\Scripts\Card.cs.meta
+fddcc1bc1d421a24bbc18eaa7d53bf77|Poker\Scripts\CardTheme.cs.meta
+917b9572b96b3f04c927721c74a03894|Poker\Scripts\CardThemeDropdown.cs.meta
+950d9d7d9bfd7dc43ab76d58780f8ee1|Poker\Scripts\CardUI.cs.meta
+d78fc8cd320eed441b51366894c858ef|Poker\Scripts\ChatBubble.cs.meta
+e8a70fd4fff47c4439eb3f8ce45a57df|Poker\Scripts\ChatManager.cs.meta
+fc66087a9321fea4c837303d2d972d8c|Poker\Scripts\ChatPanel.cs.meta
+938c14d5c6b1df34b896cabe608056cf|Poker\Scripts\Editor.meta
+335e077030731d248862ef4c31357924|Poker\Scripts\ExitHandler.cs.meta
+ae30a3bf85530bd46826d24393b78a6a|Poker\Scripts\Firebase.meta
+7c5e21059a4ba9748af9e76cfccddf81|Poker\Scripts\GameHistoryEntry.cs.meta
+cbf52121dcc65684da56199c13692c69|Poker\Scripts\GameHistoryPanel.cs.meta
+71aaa41c1ba1ba14bacadb9fe5a738c7|Poker\Scripts\GameManager.cs.meta
+4a9e2339e581c93419cff2279d7a94ce|Poker\Scripts\GameSessionDetailPanel.cs.meta
+1416e34e282b62e43a832248a0c2c020|Poker\Scripts\GameSessionPlayerEntry.cs.meta
+30cf2f1f8c59b9947831a943db0db1a7|Poker\Scripts\GameStateSnapshot.cs.meta
+78f9d112e7d7bc44296fc23202a87b17|Poker\Scripts\HandHistoryData.cs.meta
+dab8e900c8896fc4c8261eb33d21564d|Poker\Scripts\HandHistoryEntry.cs.meta
+bae81806d7962e447951ed4e2db9d6af|Poker\Scripts\HandHistoryPanel.cs.meta
+e1fe0ac80a810b642a179647585b2c8d|Poker\Scripts\HandRecorder.cs.meta
+758c0ccfbaabf4744a5fb3d5faff4576|Poker\Scripts\HandStrength.cs.meta
+41e51d22b69acf34d97cef081d816709|Poker\Scripts\HostMigrationManager.cs.meta
+36a881a4411e0c445afc92e2228d5a50|Poker\Scripts\IAuthProvider.cs.meta
+6cc7826ec4104384d9b044c672326be5|Poker\Scripts\IHandHistoryStorage.cs.meta
+feebfbff919f17b42ad5e7148d8bc280|Poker\Scripts\LoadingUI.cs.meta
+0ca5004c7601ffd40b3514aa3241b46a|Poker\Scripts\Log.cs.meta
+7628fa03f8d63774c95d142ead15eb31|Poker\Scripts\LogTag.cs.meta
+0a9e1ea342aa0c04d88f38961a67bcc9|Poker\Scripts\Menu.cs.meta
+11a9fb4f60d737841a2ce548a3ea6613|Poker\Scripts\PlayerActions.cs.meta
+b4db9ab60c9c8384a94dcb8237dd85db|Poker\Scripts\PlayerSlotUI.cs.meta
+fa79d0aca8bf117459eb727d9d07c4c8|Poker\Scripts\PlayerStatsPanel.cs.meta
+78b892dfcbd29a5409307192a3789536|Poker\Scripts\PlayerStatsTracker.cs.meta
+103f45d0eb21da245964dcac075d1a83|Poker\Scripts\PokerPlayer.cs.meta
+c5c2576bc2050c847a3d52d26df4d6b9|Poker\Scripts\PokerSoundEffects.cs.meta
+89492852e2bffd84d9bff454540b5ebc|Poker\Scripts\PokerTable.cs.meta
+d6e2050ea1a24ae49a583b1868e8e8c8|Poker\Scripts\SideUI.cs.meta
+847cd08e6ff40aa47b66fe8f7c9198ef|Poker\Scripts\SoundManager.cs.meta
+ca810fbd4d945c24d911c3a317ff7019|Poker\Scripts\UIBorder.cs.meta
+cb023ad1dad938c4cb570ef92b0ae70b|Poker\Scripts\UnityCloud.meta
+344dea4c84ac6864eb922a2a869e2d7a|Poker\Scripts\VersionChecker.cs.meta
+f6754e86fcbe50f4680e7eb689c5f12b|Poker\UI\Backgrounds\15+ Black Backgrounds – Free JPEG, PNG, Format Download!.jfif.meta
+f1dc4efeb610e2b4c835aab4aa99bc5e|Poker\UI\Backgrounds\auth background.png.meta
+b54c9b0f37f9d35448c7540f198f9031|Poker\UI\Backgrounds\background 1.png.meta
+ed80615b8d4708242b10d4bb0c2850aa|Poker\UI\Backgrounds\background.png.meta
+f52c2bfe1e35c714895a70dda0d4ccab|Poker\UI\Backgrounds\business-background-backgrounds-business-1-5c9b8f7cbee33.png.meta
+d0df5062fdf8e17478d7324b0ee9f13b|Poker\UI\Backgrounds\Login background 1.jpg.meta
+447d496780868bc4084793c5e34c70ec|Poker\UI\Backgrounds\Login background.jpg.meta
+5c542c07b8f801a4498a65b696402736|Poker\UI\Cards\cards_animation_colourful_ssstocker.png.meta
+619b0fb37c225944dbed842037f3d029|Poker\UI\Cards\cards_basic.png.meta
+d6c3401c95086b740889c91e4428b6d2|Poker\UI\Cards\cards_basic_upscaled.png.meta
+93a7808a06ab1434fb9171e3daed8602|Poker\UI\Cards\cards_colourful_black_yevhen.png.meta
+508273f30dcdc2e498414eb6c868d7f6|Poker\UI\Cards\cards_colourful_royal_maksim_lebedik.png.meta
+7d8715c1e65f39440b8b77e688fadb6b|Poker\UI\Cards\cards_gold_and_black_oleksandr.png.meta
+18d2e57933e36374babc9e4199abfd53|Poker\UI\Cards\cards_greece_maksim_lebedik.png.meta
+a04e3598965654944a2793b454b43ee0|Poker\UI\Cards\cards_vector_line_yevhen.png.meta
+3bba756060d362a4ea8b507eef988056|Poker\UI\Cards\cards_vintage_charlemagn.png.meta
+091969487db25914b9cae6430c652f33|Poker\UI\Cards\cards_white_empire.png.meta
+a23e61ebe3a237d46978ec06b26c75dd|Poker\UI\Cards\cards_white_pirates.png.meta
+eba15c3a5ac2e624bbc019162f7edf73|Poker\UI\Cards\cards_white_royal_maksim_lebedik.png.meta
+05c869df43dbd6a4f8fb6db640b66de8|Poker\UI\Chips\poker_chips.png.meta
+43121e9b0e507054489e7fe3c35a593b|Poker\UI\Fonts\Montserrat-Bold SDF.asset.meta
+4747818ca85dbe041a7861ebffca2a44|Poker\UI\Fonts\Montserrat-Bold TITLE AUTH.asset.meta
+4e6f22656c9b54d45ba5c39096d0ea68|Poker\UI\Fonts\Montserrat-Bold.ttf.meta
+4cba06e9487d33249b26c0864f10b301|Poker\UI\Fonts\Montserrat-VariableFont_wght SDF.asset.meta
+7e37bdd7ad48b0d4aad0c0581aab374c|Poker\UI\Fonts\Montserrat-VariableFont_wght.ttf.meta
+b1e706935160eda4595d3e848bc05b8c|Poker\UI\Images\card symbols.png.meta
+ae8ef32fb5fdd26468da9e8b704390b4|Poker\UI\Images\guest squirrel.png.meta
+ab6520be9e7658049a108324c0e921df|Poker\UI\Images\Pine Fig logo v3 isolated.png.meta
+df869e41787321e47b4829a61098e5ab|Poker\UI\Images\pinefig logo eaten.png.meta
+d1393e318c4a9264c83e34d492fe69dc|Poker\UI\Images\pinefig logo.png.meta
+471ab4a5a77cfc94e8f9b76c8d0febaf|Poker\UI\Images\poker gang.png.meta
+263d11ce191796048903133c6f5264f0|Poker\UI\Images\poker squirrel.png.meta
+4180caf19c914ab4da5c6130f5412bc6|Poker\UI\Images\poker table.png.meta
+a74bd7fa1f42df549b932e744af56d52|Poker\UI\Images\the gang on a poker table 1.png.meta
+b7ec24b723710f4499f8095fad8543dd|Poker\UI\Images\the gang on a poker table.png.meta
+6a599890cf1b86d40b09d31f0e93eb4f|Poker\UI\Images\the gang on poker table.png.meta
+76b900dac64f60349bab70d57b159232|Poker\UI\Images\the gang without table.png.meta
+0d27cb90af7163447b535c2529517c50|Poker\UI\Interface\Add_cash 1.png.meta
+d5c7165d687a4e448872e09894c14c58|Poker\UI\Interface\Add_cash.png.meta
+bb43d707bb6ecb743a45875cc3d51e8c|Poker\UI\Interface\arrow.png.meta
+f73b5a076800cba4db30a887ad01d8e9|Poker\UI\Interface\auth_panel 1.png.meta
+c019a2d2f9415fd4d931df7425f7b70f|Poker\UI\Interface\back.png.meta
+efa40b2fba66cce46b058be87484d356|Poker\UI\Interface\big button.png.meta
+35ad6f9bb473d1b43af1195b30491af1|Poker\UI\Interface\Chat_button.png.meta
+b8b7243d8c41d56418ec7858f762bf74|Poker\UI\Interface\checkbox.png.meta
+987cfd8670468514886975790205d2c5|Poker\UI\Interface\checkmark.png.meta
+de241d3e209ae674bb6763450752cd10|Poker\UI\Interface\clock without light.png.meta
+9bc29452a87f63d4894900152e276a72|Poker\UI\Interface\clock.png.meta
+f15c00f1ddb154940a2f345e8058bd4a|Poker\UI\Interface\close button.png.meta
+d69575a435f6b244faf193c8b6e91647|Poker\UI\Interface\create button.png.meta
+164ae74302fc28943a0be28a157fa603|Poker\UI\Interface\create_lobby_plus.png.meta
+80ac83de3feb6844aa1cac1842983007|Poker\UI\Interface\create_lobby_refresh.png.meta
+3f4f022c75590db40acfe12edf59b156|Poker\UI\Interface\create_panel.png.meta
+feb6155799a57fc4881775d4007b6308|Poker\UI\Interface\email icon.png.meta
+f1244f42376c464408106dec03ba4c5d|Poker\UI\Interface\inifinity.png.meta
+b4b91674957b651439e8a7a213b164cd|Poker\UI\Interface\kick_button.png.meta
+c6c60580c987ae74b95f5c5b51423c0d|Poker\UI\Interface\light.png.meta
+bf76d9ff4a84033479ed1595640cb17e|Poker\UI\Interface\lobby_list_back.png.meta
+8560c228070026a46a58eaeb5d75367e|Poker\UI\Interface\lobby_players_back.png.meta
+68dbe0f235031e94596f9233d1efe235|Poker\UI\Interface\lobby_settings_back.png.meta
+ae9c85fe23145f74cbf75258c4ff9fac|Poker\UI\Interface\lobby_title.png.meta
+1cb20bd4767187a4ba456411669acb08|Poker\UI\Interface\login button.png.meta
+1b66c49e1fbed124d9030360a1f3a3ca|Poker\UI\Interface\Menu_button.png.meta
+1474fcfd7173913468efdc49767bb9c0|Poker\UI\Interface\Nameplate.png.meta
+b502c104a22bacc429ef1d8cb39fa833|Poker\UI\Interface\password icon.png.meta
+8dade9dc75d1a3d438b633dd37937c3d|Poker\UI\Interface\play as guest button.png.meta
+4a61293ec1edfff42ad193ceb8e77733|Poker\UI\Interface\poker table_card_slot.png.meta
+8be4c666c9f83654680f90e9321a4d9e|Poker\UI\Interface\Previous_Hand.png.meta
+252fe16db7d9b7f479691f13d9a566ca|Poker\UI\Interface\ready_check.png.meta
+4e80cc3642f9941418fe59f276668f97|Poker\UI\Interface\Stand-up-button.png.meta
+4f57cc312f9759c4bb15db95411ef547|Poker\UI\Interface\Stats_button.png.meta
+1c6bc9724448d5347b7bb7078f4ec7c9|Poker\UI\Interface\tab_lobby_list.png.meta
+60abd1e966a1dd0478df04ddfd8338cf|Poker\UI\Interface\tab_profile.png.meta
+c4b2b98b9d2250548a7e6aa76550b7e2|Poker\UI\Interface\tab_settings.png.meta
+6937cd7a9fe5a3a469999c091fd34fd9|Poker\UI\Interface\user icon.png.meta
+72bcf14af66a22248a3b0f84ca63f198|Poker\UI\PlayerIcons\ProfileImageBorder.png.meta
+9923269ce34884749b3f9d4967019cda|Poker\UI\PlayerIcons\ProfileImageSlot.png.meta
+aacf1a8f42a1df94c82cec413b66d5bb|Poker\UI\PlayerIcons\ProfilePic_Corgi.png.meta
+f226a2d7c5c83ac4cb1acb211a6f1ba8|Poker\UI\PlayerIcons\ProfilePic_Doberman.png.meta
+5d57442736588b44ebdfbd875fc2c044|Poker\UI\PlayerIcons\ProfilePic_GermanShephard.png.meta
+79819480927656541a82fddb5c43be20|Poker\UI\PlayerIcons\ProfilePic_JackRussel.png.meta
+01380124773092646ab32ea1550c6db6|Poker\UI\PlayerIcons\ProfilePic_Pug.png.meta
+7e050ae30468dd9449e078cfda36a4e5|Poker\UI\PlayerIcons\ProfilePic_Retriever.png.meta
+dad65bce029c88a40aa4cf69e091ba11|Poker\UI\PlayerIcons\ProfilePic_Rottweiler.png.meta
+f9061348200510a46bbfa1d522253397|Poker\UI\PlayerIcons\ProfilePic_Yorkshire.png.meta
+0e5b496b8145beb4387c8bece2fdc8e6|Poker\UI\PlayerIcons\user-icon.png.meta
+95b827ed4fd6f7b43a057508753de987|Poker\UI\Backgrounds.meta
+baa96c8a6a2cf2741b97fac79196d7cb|Poker\UI\Cards.meta
+cf36f6bc098b46146aa0745e0e9d670f|Poker\UI\Chips.meta
+2313476bb2bd3484da76e6ec5508c5cb|Poker\UI\Emotes.meta
+023e75d379c7da44ca887fe28ba9a207|Poker\UI\Fonts.meta
+657360667794d1f4aa7e8c5b47a8670b|Poker\UI\Images.meta
+548b8131078797a4e9ba63618cdfd4f0|Poker\UI\Interface.meta
+e4dc44635c8861d42b492ff1b7a44102|Poker\UI\PlayerIcons.meta
+77a80a0c4b36d8b428fc39c0ad47bec4|Poker\Audio.meta
+c362678946176d64a9c083f2aa1a77cc|Poker\PokerGameScene.meta
+c65a204ee9a5b4c4e8db296f130cf37d|Poker\PokerGameScene.unity.meta
+885c4dc3050597b43b7fe60ce4d30a3c|Poker\Prefabs.meta
+6262634febe441f48aad4209a8f75d3a|Poker\Scripts.meta
+52b5cfef6d19d404a89d0ed5512c4265|Poker\Textures.meta
+00f5ddc659722bd45962193dbd85b65a|Poker\UI.meta
+30cec30fae6d846c98a6a7448279e401|Settings\Build Profiles\iOS.asset.meta
+1abf52fd1c75240508328139450be5d7|Settings\Build Profiles.meta
+446a6aaa8a5040e4799d29d0d022550b|StreamingAssets\google-services-desktop.json.meta
+04d153a52f50f374d8ae07a704d53901|TicTacToe\Prefabs\Circle.prefab.meta
+dd8ebd11084b6d2448eae9f5ffff94e2|TicTacToe\Prefabs\Cross.prefab.meta
+d63845f6dedc07543b7430049c2bbe2d|TicTacToe\Prefabs\GridPosition.prefab.meta
+f61021aab45bd7445a43695c95cb46d8|TicTacToe\Prefabs\LineComplete.prefab.meta
+9ad0a23b962633f42b10f4dc8b6e51ed|TicTacToe\Prefabs\LoseSfx.prefab.meta
+da7b6e26da9bbf44685462fde7d7683b|TicTacToe\Prefabs\PlaceSfx.prefab.meta
+c4b8e550d21a75d45ba42be0a01625d4|TicTacToe\Prefabs\WinSfx.prefab.meta
+6f80e0b20a8b93f40aaa7c099f83524d|TicTacToe\Resources\UnityPlayerAccountSettings.asset.meta
+8c9cfa26abfee488c85f1582747f6a02|TicTacToe\Scenes\GameScene.unity.meta
+f71d378a559cef9448edeffe9d659bd3|TicTacToe\Scripts\GameManager.cs.meta
+115faedafa6683344b437b9dab28b2d4|TicTacToe\Scripts\GameOverUI.cs.meta
+b8ccbb02ef79f7b46b1ac8883e290d75|TicTacToe\Scripts\GameVisualManager.cs.meta
+1493f96bdfb7aa9428bd774eca30ab07|TicTacToe\Scripts\GridPosition.cs.meta
+13cb96c7ff39cff48b0b37e8c8929c14|TicTacToe\Scripts\NetworkManagerUI.cs.meta
+d44a24c51f03c444285105c8d5ba0462|TicTacToe\Scripts\PlayerUI.cs.meta
+758a833c7e8447145b291fa96c9aa8ad|TicTacToe\Scripts\SoundManager.cs.meta
+2cda990e2423bbf4892e6590ba056729|TicTacToe\Settings\Scenes\URP2DSceneTemplate.unity.meta
+d03ed43fc9d8a4f2e9fa70c1c7916eb9|TicTacToe\Settings\Lit2DSceneTemplate.scenetemplate.meta
+424799608f7334c24bf367e4bbfa7f9a|TicTacToe\Settings\Renderer2D.asset.meta
+d574b2fb4661c408f80aa76c0182931f|TicTacToe\Settings\Scenes.meta
+681886c5eb7344803b6206f758bf0b1c|TicTacToe\Settings\UniversalRP.asset.meta
+3d3c5e574f24f2148b3c6776f4f05d1e|TicTacToe\Sounds\Lose.mp3.meta
+f36162658085aff469ba5f6a96fe6fa4|TicTacToe\Sounds\Music.mp3.meta
+3cbd76f6d40e48c48aa47564cd88186b|TicTacToe\Sounds\PlacingObject.wav.meta
+6807edc9109b3114e8e1b0f44d202684|TicTacToe\Sounds\Win.wav.meta
+6e59c59b81ab47f9b6ec5781fa725d2c|TicTacToe\TextMesh Pro\Fonts\LiberationSans - OFL.txt.meta
+e3265ab4bf004d28a9537516768c1c75|TicTacToe\TextMesh Pro\Fonts\LiberationSans.ttf.meta
+e73a58f6e2794ae7b1b7e50b7fb811b0|TicTacToe\TextMesh Pro\Resources\Fonts & Materials\LiberationSans SDF - Drop Shadow.mat.meta
+2e498d1c8094910479dc3e1b768306a4|TicTacToe\TextMesh Pro\Resources\Fonts & Materials\LiberationSans SDF - Fallback.asset.meta
+79459efec17a4d00a321bdcc27bbc385|TicTacToe\TextMesh Pro\Resources\Fonts & Materials\LiberationSans SDF - Outline.mat.meta
+8f586378b4e144a9851e7b34d9b748ee|TicTacToe\TextMesh Pro\Resources\Fonts & Materials\LiberationSans SDF.asset.meta
+c41005c129ba4d66911b75229fd70b45|TicTacToe\TextMesh Pro\Resources\Sprite Assets\EmojiOne.asset.meta
+f952c082cb03451daed3ee968ac6c63e|TicTacToe\TextMesh Pro\Resources\Style Sheets\Default Style Sheet.asset.meta
+731f1baa9d144a9897cb1d341c2092b8|TicTacToe\TextMesh Pro\Resources\Fonts & Materials.meta
+fade42e8bc714b018fac513c043d323b|TicTacToe\TextMesh Pro\Resources\LineBreaking Following Characters.txt.meta
+d82c1b31c7e74239bff1220585707d2b|TicTacToe\TextMesh Pro\Resources\LineBreaking Leading Characters.txt.meta
+512a49d95c0c4332bdd98131869c23c9|TicTacToe\TextMesh Pro\Resources\Sprite Assets.meta
+4aecb92fff08436c8303b10eab8da368|TicTacToe\TextMesh Pro\Resources\Style Sheets.meta
+3f5b5dff67a942289a9defa416b206f3|TicTacToe\TextMesh Pro\Resources\TMP Settings.asset.meta
+96de908384869cd409c75efa351d5edf|TicTacToe\TextMesh Pro\Shaders\SDFFunctions.hlsl.meta
+407bc68d299748449bbf7f48ee690f8d|TicTacToe\TextMesh Pro\Shaders\TMPro.cginc.meta
+c334973cef89a9840b0b0c507e0377ab|TicTacToe\TextMesh Pro\Shaders\TMPro_Mobile.cginc.meta
+3997e2241185407d80309a82f9148466|TicTacToe\TextMesh Pro\Shaders\TMPro_Properties.cginc.meta
+d930090c0cd643c7b55f19a38538c162|TicTacToe\TextMesh Pro\Shaders\TMPro_Surface.cginc.meta
+48bb5f55d8670e349b6e614913f9d910|TicTacToe\TextMesh Pro\Shaders\TMP_Bitmap-Custom-Atlas.shader.meta
+1e3b057af24249748ff873be7fafee47|TicTacToe\TextMesh Pro\Shaders\TMP_Bitmap-Mobile.shader.meta
+128e987d567d4e2c824d754223b3f3b0|TicTacToe\TextMesh Pro\Shaders\TMP_Bitmap.shader.meta
+dd89cf5b9246416f84610a006f916af7|TicTacToe\TextMesh Pro\Shaders\TMP_SDF Overlay.shader.meta
+14eb328de4b8eb245bb7cea29e4ac00b|TicTacToe\TextMesh Pro\Shaders\TMP_SDF SSD.shader.meta
+ca2ed216f98028c4dae6c5224a952b3c|TicTacToe\TextMesh Pro\Shaders\TMP_SDF-HDRP LIT.shadergraph.meta
+f63d574838ccfb44f84acc05fed0af48|TicTacToe\TextMesh Pro\Shaders\TMP_SDF-HDRP UNLIT.shadergraph.meta
+bc1ede39bf3643ee8e493720e4259791|TicTacToe\TextMesh Pro\Shaders\TMP_SDF-Mobile Masking.shader.meta
+a02a7d8c237544f1962732b55a9aebf1|TicTacToe\TextMesh Pro\Shaders\TMP_SDF-Mobile Overlay.shader.meta
+c8d12adcee749c344b8117cf7c7eb912|TicTacToe\TextMesh Pro\Shaders\TMP_SDF-Mobile SSD.shader.meta
+0178fcb869bafef4690d177d31d17db8|TicTacToe\TextMesh Pro\Shaders\TMP_SDF-Mobile-2-Pass.shader.meta
+fe393ace9b354375a9cb14cdbbc28be4|TicTacToe\TextMesh Pro\Shaders\TMP_SDF-Mobile.shader.meta
+85187c2149c549c5b33f0cdb02836b17|TicTacToe\TextMesh Pro\Shaders\TMP_SDF-Surface-Mobile.shader.meta
+f7ada0af4f174f0694ca6a487b8f543d|TicTacToe\TextMesh Pro\Shaders\TMP_SDF-Surface.shader.meta
+a3d800b099a06e0478fb790c5e79057a|TicTacToe\TextMesh Pro\Shaders\TMP_SDF-URP Lit.shadergraph.meta
+124c112a6e8f1a54e8b0870e881b56d8|TicTacToe\TextMesh Pro\Shaders\TMP_SDF-URP Unlit.shadergraph.meta
+68e6db2ebdc24f95958faec2be5558d6|TicTacToe\TextMesh Pro\Shaders\TMP_SDF.shader.meta
+cf81c85f95fe47e1a27f6ae460cf182c|TicTacToe\TextMesh Pro\Shaders\TMP_Sprite.shader.meta
+381dcb09d5029d14897e55f98031fca5|TicTacToe\TextMesh Pro\Sprites\EmojiOne Attribution.txt.meta
+8f05276190cf498a8153f6cbe761d4e6|TicTacToe\TextMesh Pro\Sprites\EmojiOne.json.meta
+dffef66376be4fa480fb02b19edbe903|TicTacToe\TextMesh Pro\Sprites\EmojiOne.png.meta
+6ab70aee4d56447429c680537fbf93ed|TicTacToe\TextMesh Pro\Fonts.meta
+243e06394e614e5d99fab26083b707fa|TicTacToe\TextMesh Pro\Resources.meta
+e9f693669af91aa45ad615fc681ed29f|TicTacToe\TextMesh Pro\Shaders.meta
+d0603b6d5186471b96c778c3949c7ce2|TicTacToe\TextMesh Pro\Sprites.meta
+69c8ef92a88b11d43903786b199f7774|TicTacToe\Textures\Arrow.png.meta
+0d29f15ed9d707c4e94e8064a052ebd9|TicTacToe\Textures\Background.png.meta
+83a377b21400e634ba1849574c3a76c4|TicTacToe\Textures\Circle.png.meta
+3fc1b6af425cdfc41872b8bb351a777e|TicTacToe\Textures\Cross.png.meta
+c97c234fe260196408e0770067426b15|TicTacToe\Textures\Line.png.meta
+d4faeae8be386624d81e030fd95af1a6|TicTacToe\Textures\LineGreen.png.meta
+6c5db0e53512f904ea26df14ddb720e7|TicTacToe\Prefabs.meta
+43775356fa790e448b0022bb2cbaec6c|TicTacToe\Resources.meta
+b71c6fc8925dc63439705b93903af4a8|TicTacToe\Scenes.meta
+eac16076f835dd24daef134c07ec5aed|TicTacToe\Scripts.meta
+0220aab0833d04faeb927d84ca6cc40c|TicTacToe\Settings.meta
+12c63e1d58c106642ac43fa8af8a92f3|TicTacToe\Sounds.meta
+f54d1bd14bd3ca042bd867b519fee8cc|TicTacToe\TextMesh Pro.meta
+3f494709bd650624abaac77f22000a21|TicTacToe\Textures.meta
+35f64748664f6974fab093e0a797fb22|DefaultNetworkPrefabs.asset.meta
+3f9215ea0144899419cfbc0957140d3f|DefaultVolumeProfile.asset.meta
+755146748a6fecd44ad93896ff0955cc|Editor Default Resources.meta
+67a2f3759d836c044bcd583022f2375c|ExternalDependencyManager.meta
+3837038fa9db19e43b011a18dcb9c2f7|Firebase.meta
+e20b82de46179764c802bcc35eaf0394|GeneratedLocalRepo.meta
+2bcd2660ca9b64942af0de543d8d7100|InputSystem_Actions.inputactions.meta
+68e19f26190314046b615c4d891caa42|LobbyTutorial.meta
+115f008af5930a04e8d13b69cc5ce892|Plugins.meta
+7551a198e04c5cd4c8f92e5202290af7|Poker.meta
+771daebd589a42e44a38a3cf2dbf63af|Resources.meta
+7fd810a63626e487b9309cbef84707ba|Settings.meta
+4a2aa2ffae2fb8b47803f1b25fb06849|StreamingAssets.meta
+96c5484045590f240b65f6fbf1a71c39|TicTacToe.meta
+93b439a37f63240aca3dd4e01d978a9f|UniversalRenderPipelineGlobalSettings.asset.meta
+a1a4180bef19d2d45b4306ad7b673d08|UserChoices.choices.meta

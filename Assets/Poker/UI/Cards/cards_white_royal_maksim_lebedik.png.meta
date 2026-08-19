@@ -1,0 +1,1586 @@
+fileFormatVersion: 2
+guid: eba15c3a5ac2e624bbc019162f7edf73
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5083783083010366229
+    second: cards_white_royal_maksim_lebedik_0
+  - first:
+      213: 3426588255119586919
+    second: cards_white_royal_maksim_lebedik_1
+  - first:
+      213: -1238155391597221025
+    second: cards_white_royal_maksim_lebedik_2
+  - first:
+      213: -5710118662100388801
+    second: cards_white_royal_maksim_lebedik_3
+  - first:
+      213: 1770306383013194501
+    second: cards_white_royal_maksim_lebedik_4
+  - first:
+      213: -6143079177348823436
+    second: cards_white_royal_maksim_lebedik_5
+  - first:
+      213: -3575591482228260199
+    second: cards_white_royal_maksim_lebedik_6
+  - first:
+      213: -3822290460533411074
+    second: cards_white_royal_maksim_lebedik_7
+  - first:
+      213: -7844701631790838328
+    second: cards_white_royal_maksim_lebedik_8
+  - first:
+      213: 3180291991175873249
+    second: cards_white_royal_maksim_lebedik_9
+  - first:
+      213: -202294110352864468
+    second: cards_white_royal_maksim_lebedik_10
+  - first:
+      213: 2752444527743250521
+    second: cards_white_royal_maksim_lebedik_11
+  - first:
+      213: 1167769431085744799
+    second: cards_white_royal_maksim_lebedik_12
+  - first:
+      213: -83707828572876765
+    second: cards_white_royal_maksim_lebedik_13
+  - first:
+      213: -5736147535885439675
+    second: cards_white_royal_maksim_lebedik_14
+  - first:
+      213: 7674952235071748752
+    second: cards_white_royal_maksim_lebedik_15
+  - first:
+      213: 2708966342165232386
+    second: cards_white_royal_maksim_lebedik_16
+  - first:
+      213: -271871852342984334
+    second: cards_white_royal_maksim_lebedik_17
+  - first:
+      213: 2511933371005261192
+    second: cards_white_royal_maksim_lebedik_18
+  - first:
+      213: 3579476705510317527
+    second: cards_white_royal_maksim_lebedik_19
+  - first:
+      213: 8875823811178748615
+    second: cards_white_royal_maksim_lebedik_20
+  - first:
+      213: 1020135209214115974
+    second: cards_white_royal_maksim_lebedik_21
+  - first:
+      213: 3375844858058447839
+    second: cards_white_royal_maksim_lebedik_22
+  - first:
+      213: 4055816165553389280
+    second: cards_white_royal_maksim_lebedik_23
+  - first:
+      213: 2531073327055791274
+    second: cards_white_royal_maksim_lebedik_24
+  - first:
+      213: -6118690061888727055
+    second: cards_white_royal_maksim_lebedik_25
+  - first:
+      213: 527340726218051138
+    second: cards_white_royal_maksim_lebedik_26
+  - first:
+      213: -3571291706354114857
+    second: cards_white_royal_maksim_lebedik_27
+  - first:
+      213: -7078437583643346717
+    second: cards_white_royal_maksim_lebedik_28
+  - first:
+      213: -8972410757381218145
+    second: cards_white_royal_maksim_lebedik_29
+  - first:
+      213: -5186392941716864925
+    second: cards_white_royal_maksim_lebedik_30
+  - first:
+      213: -3929015965374459793
+    second: cards_white_royal_maksim_lebedik_31
+  - first:
+      213: -2861077192575035938
+    second: cards_white_royal_maksim_lebedik_32
+  - first:
+      213: -240214090432645216
+    second: cards_white_royal_maksim_lebedik_33
+  - first:
+      213: -7414831298557663626
+    second: cards_white_royal_maksim_lebedik_34
+  - first:
+      213: -1964573005070451520
+    second: cards_white_royal_maksim_lebedik_35
+  - first:
+      213: -5742431784252440639
+    second: cards_white_royal_maksim_lebedik_36
+  - first:
+      213: 4174563558323819957
+    second: cards_white_royal_maksim_lebedik_37
+  - first:
+      213: -7335327469373163100
+    second: cards_white_royal_maksim_lebedik_38
+  - first:
+      213: 532297538656240880
+    second: cards_white_royal_maksim_lebedik_39
+  - first:
+      213: -6508779856404449345
+    second: cards_white_royal_maksim_lebedik_40
+  - first:
+      213: -7964925207504274886
+    second: cards_white_royal_maksim_lebedik_41
+  - first:
+      213: 6532440777948492274
+    second: cards_white_royal_maksim_lebedik_42
+  - first:
+      213: -7111543655690477772
+    second: cards_white_royal_maksim_lebedik_43
+  - first:
+      213: 8521968113357592053
+    second: cards_white_royal_maksim_lebedik_44
+  - first:
+      213: -7619047017805168900
+    second: cards_white_royal_maksim_lebedik_45
+  - first:
+      213: 1784307808427565100
+    second: cards_white_royal_maksim_lebedik_46
+  - first:
+      213: 4811180779024014979
+    second: cards_white_royal_maksim_lebedik_47
+  - first:
+      213: 7585228698643581017
+    second: cards_white_royal_maksim_lebedik_48
+  - first:
+      213: 6616588770488436568
+    second: cards_white_royal_maksim_lebedik_49
+  - first:
+      213: 8653848289978248722
+    second: cards_white_royal_maksim_lebedik_50
+  - first:
+      213: -8912775692807523714
+    second: cards_white_royal_maksim_lebedik_51
+  - first:
+      213: -7219584398369598713
+    second: cards_white_royal_maksim_lebedik_52
+  - first:
+      213: 2198348482795041403
+    second: cards_white_royal_maksim_lebedik_53
+  - first:
+      213: -3029492628080910703
+    second: cards_white_royal_maksim_lebedik_54
+  - first:
+      213: -7494015784532465414
+    second: cards_white_royal_maksim_lebedik_55
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: cards_white_royal_maksim_lebedik_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1920
+        width: 5940
+        height: 605
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be4e6069836c279b0800000000000000
+      internalID: -5083783083010366229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cards_white_royal_maksim_lebedik_1
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 1920
+        width: 358
+        height: 535
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 766bde9fcdfad8f20800000000000000
+      internalID: 3426588255119586919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cards_white_royal_maksim_lebedik_2
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 1920
+        width: 358
+        height: 535
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5bec1b3b3031dee0800000000000000
+      internalID: -1238155391597221025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cards_white_royal_maksim_lebedik_3
+      rect:
+        serializedVersion: 2
+        x: 1339
+        y: 1920
+        width: 358
+        height: 535
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f347d20945591c0b0800000000000000
+      internalID: -5710118662100388801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cards_white_royal_maksim_lebedik_4
+      rect:
+        serializedVersion: 2
+        x: 1754
+        y: 1920
+        width: 358
+        height: 535
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50bab1f9644619810800000000000000
+      internalID: 1770306383013194501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cards_white_royal_maksim_lebedik_5
+      rect:
+        serializedVersion: 2
+        x: 2169
+        y: 1920
+        width: 358
+        height: 535
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 476460f19066fbaa0800000000000000
+      internalID: -6143079177348823436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cards_white_royal_maksim_lebedik_6
+      rect:
+        serializedVersion: 2
+        x: 2583
+        y: 1920
+        width: 358
+        height: 535
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9924fdfbd72f06ec0800000000000000
+      internalID: -3575591482228260199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cards_white_royal_maksim_lebedik_7
+      rect:
+        serializedVersion: 2
+        x: 2998
+        y: 1920
+        width: 358
+        height: 535
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef2ba87d31f74fac0800000000000000
+      internalID: -3822290460533411074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cards_white_royal_maksim_lebedik_8
+      rect:
+        serializedVersion: 2
+        x: 3413
+        y: 1920
+        width: 358
+        height: 535
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cd0e2ccd65022390800000000000000
+      internalID: -7844701631790838328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cards_white_royal_maksim_lebedik_9
+      rect:
+        serializedVersion: 2
+        x: 3828
+        y: 1920
+        width: 358
+        height: 535
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e2ce0057baa22c20800000000000000
+      internalID: 3180291991175873249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cards_white_royal_maksim_lebedik_10
+      rect:
+        serializedVersion: 2
+        x: 4243
+        y: 1920
+        width: 358
+        height: 535
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2b8344149e413df0800000000000000
+      internalID: -202294110352864468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cards_white_royal_maksim_lebedik_11
+      rect:
+        serializedVersion: 2
+        x: 4658
+        y: 1920
+        width: 358
+        height: 535
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 950ba1407b5a23620800000000000000
+      internalID: 2752444527743250521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cards_white_royal_maksim_lebedik_12
+      rect:
+        serializedVersion: 2
+        x: 5073
+        y: 1920
+        width: 358
+        height: 535
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f920d674c10c43010800000000000000
+      internalID: 1167769431085744799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cards_white_royal_maksim_lebedik_13
+      rect:
+        serializedVersion: 2
+        x: 5487
+        y: 1920
+        width: 358
+        height: 535
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3209ef46c2c96def0800000000000000
+      internalID: -83707828572876765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cards_white_royal_maksim_lebedik_14
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 1304
+        width: 358
+        height: 534
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54de050253c1560b0800000000000000
+      internalID: -5736147535885439675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cards_white_royal_maksim_lebedik_15
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 1304
+        width: 358
+        height: 534
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09aba87e468e28a60800000000000000
+      internalID: 7674952235071748752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cards_white_royal_maksim_lebedik_16
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 1304
+        width: 358
+        height: 534
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20b7f35198e289520800000000000000
+      internalID: 2708966342165232386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cards_white_royal_maksim_lebedik_17
+      rect:
+        serializedVersion: 2
+        x: 1339
+        y: 1304
+        width: 358
+        height: 534
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2714ba0adfd1a3cf0800000000000000
+      internalID: -271871852342984334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cards_white_royal_maksim_lebedik_18
+      rect:
+        serializedVersion: 2
+        x: 1754
+        y: 1304
+        width: 358
+        height: 534
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 885d736971e2cd220800000000000000
+      internalID: 2511933371005261192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cards_white_royal_maksim_lebedik_19
+      rect:
+        serializedVersion: 2
+        x: 2169
+        y: 1304
+        width: 358
+        height: 534
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dd5ab9491bdca130800000000000000
+      internalID: 3579476705510317527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cards_white_royal_maksim_lebedik_20
+      rect:
+        serializedVersion: 2
+        x: 2583
+        y: 1304
+        width: 358
+        height: 534
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ca534aeab24d2b70800000000000000
+      internalID: 8875823811178748615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cards_white_royal_maksim_lebedik_21
+      rect:
+        serializedVersion: 2
+        x: 2998
+        y: 1304
+        width: 358
+        height: 534
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6808310619f382e00800000000000000
+      internalID: 1020135209214115974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cards_white_royal_maksim_lebedik_22
+      rect:
+        serializedVersion: 2
+        x: 3413
+        y: 1304
+        width: 358
+        height: 534
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdb176d230969de20800000000000000
+      internalID: 3375844858058447839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cards_white_royal_maksim_lebedik_23
+      rect:
+        serializedVersion: 2
+        x: 3828
+        y: 1304
+        width: 358
+        height: 534
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0eeb81e5057294830800000000000000
+      internalID: 4055816165553389280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cards_white_royal_maksim_lebedik_24
+      rect:
+        serializedVersion: 2
+        x: 4243
+        y: 1304
+        width: 358
+        height: 534
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa460afd7cd202320800000000000000
+      internalID: 2531073327055791274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cards_white_royal_maksim_lebedik_25
+      rect:
+        serializedVersion: 2
+        x: 4658
+        y: 1304
+        width: 358
+        height: 534
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f7d8629ecb061ba0800000000000000
+      internalID: -6118690061888727055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cards_white_royal_maksim_lebedik_26
+      rect:
+        serializedVersion: 2
+        x: 5073
+        y: 1304
+        width: 358
+        height: 534
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24ec2d5b89d715700800000000000000
+      internalID: 527340726218051138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cards_white_royal_maksim_lebedik_27
+      rect:
+        serializedVersion: 2
+        x: 5487
+        y: 1304
+        width: 358
+        height: 534
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ded6755d19307ec0800000000000000
+      internalID: -3571291706354114857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cards_white_royal_maksim_lebedik_28
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 687
+        width: 358
+        height: 535
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e8f926558654cd90800000000000000
+      internalID: -7078437583643346717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cards_white_royal_maksim_lebedik_29
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 687
+        width: 358
+        height: 535
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f90266b34f79b7380800000000000000
+      internalID: -8972410757381218145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cards_white_royal_maksim_lebedik_30
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 687
+        width: 358
+        height: 535
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3608f53291b3608b0800000000000000
+      internalID: -5186392941716864925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cards_white_royal_maksim_lebedik_31
+      rect:
+        serializedVersion: 2
+        x: 1339
+        y: 687
+        width: 358
+        height: 535
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f60540bdbc45979c0800000000000000
+      internalID: -3929015965374459793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cards_white_royal_maksim_lebedik_32
+      rect:
+        serializedVersion: 2
+        x: 1754
+        y: 687
+        width: 358
+        height: 535
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed5d795b3796b48d0800000000000000
+      internalID: -2861077192575035938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cards_white_royal_maksim_lebedik_33
+      rect:
+        serializedVersion: 2
+        x: 2169
+        y: 687
+        width: 358
+        height: 535
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a7f7b5be869aacf0800000000000000
+      internalID: -240214090432645216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cards_white_royal_maksim_lebedik_34
+      rect:
+        serializedVersion: 2
+        x: 2583
+        y: 687
+        width: 358
+        height: 535
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 676a50c283a391990800000000000000
+      internalID: -7414831298557663626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cards_white_royal_maksim_lebedik_35
+      rect:
+        serializedVersion: 2
+        x: 2998
+        y: 687
+        width: 358
+        height: 535
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cc3479b24f6cb4e0800000000000000
+      internalID: -1964573005070451520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cards_white_royal_maksim_lebedik_36
+      rect:
+        serializedVersion: 2
+        x: 3413
+        y: 687
+        width: 358
+        height: 535
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cf78b887b8ce40b0800000000000000
+      internalID: -5742431784252440639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cards_white_royal_maksim_lebedik_37
+      rect:
+        serializedVersion: 2
+        x: 3828
+        y: 687
+        width: 358
+        height: 535
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b59e2240770fe930800000000000000
+      internalID: 4174563558323819957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cards_white_royal_maksim_lebedik_38
+      rect:
+        serializedVersion: 2
+        x: 4243
+        y: 687
+        width: 358
+        height: 535
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a9f8d4e78ea33a90800000000000000
+      internalID: -7335327469373163100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cards_white_royal_maksim_lebedik_39
+      rect:
+        serializedVersion: 2
+        x: 4658
+        y: 687
+        width: 358
+        height: 535
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f48b6a8ac9136700800000000000000
+      internalID: 532297538656240880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cards_white_royal_maksim_lebedik_40
+      rect:
+        serializedVersion: 2
+        x: 5073
+        y: 687
+        width: 358
+        height: 535
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb77bc1a43b2ca5a0800000000000000
+      internalID: -6508779856404449345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cards_white_royal_maksim_lebedik_41
+      rect:
+        serializedVersion: 2
+        x: 5487
+        y: 687
+        width: 358
+        height: 535
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3a372849b6e67190800000000000000
+      internalID: -7964925207504274886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cards_white_royal_maksim_lebedik_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 5940
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f175e5f644e7aa50800000000000000
+      internalID: 6532440777948492274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cards_white_royal_maksim_lebedik_43
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 71
+        width: 358
+        height: 535
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43fd2e549b8be4d90800000000000000
+      internalID: -7111543655690477772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cards_white_royal_maksim_lebedik_44
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 71
+        width: 358
+        height: 535
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f592e709dc144670800000000000000
+      internalID: 8521968113357592053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cards_white_royal_maksim_lebedik_45
+      rect:
+        serializedVersion: 2
+        x: 1339
+        y: 71
+        width: 358
+        height: 535
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfe39b0da15b34690800000000000000
+      internalID: -7619047017805168900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cards_white_royal_maksim_lebedik_46
+      rect:
+        serializedVersion: 2
+        x: 1754
+        y: 71
+        width: 358
+        height: 535
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c20e7438f7223c810800000000000000
+      internalID: 1784307808427565100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cards_white_royal_maksim_lebedik_47
+      rect:
+        serializedVersion: 2
+        x: 2169
+        y: 71
+        width: 358
+        height: 535
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38ed9e38d6fb4c240800000000000000
+      internalID: 4811180779024014979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cards_white_royal_maksim_lebedik_48
+      rect:
+        serializedVersion: 2
+        x: 2583
+        y: 71
+        width: 358
+        height: 535
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 958cfba2055244960800000000000000
+      internalID: 7585228698643581017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cards_white_royal_maksim_lebedik_49
+      rect:
+        serializedVersion: 2
+        x: 2998
+        y: 71
+        width: 358
+        height: 535
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8574dc93e68d2db50800000000000000
+      internalID: 6616588770488436568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cards_white_royal_maksim_lebedik_50
+      rect:
+        serializedVersion: 2
+        x: 3413
+        y: 71
+        width: 358
+        height: 535
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21e66407b25a81870800000000000000
+      internalID: 8653848289978248722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cards_white_royal_maksim_lebedik_51
+      rect:
+        serializedVersion: 2
+        x: 3828
+        y: 71
+        width: 358
+        height: 535
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e72b873bab57f4480800000000000000
+      internalID: -8912775692807523714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cards_white_royal_maksim_lebedik_52
+      rect:
+        serializedVersion: 2
+        x: 4243
+        y: 71
+        width: 358
+        height: 535
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7035a3d9d32eecb90800000000000000
+      internalID: -7219584398369598713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cards_white_royal_maksim_lebedik_53
+      rect:
+        serializedVersion: 2
+        x: 4658
+        y: 71
+        width: 358
+        height: 535
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7274893c4a128e10800000000000000
+      internalID: 2198348482795041403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cards_white_royal_maksim_lebedik_54
+      rect:
+        serializedVersion: 2
+        x: 5073
+        y: 71
+        width: 358
+        height: 535
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19e9295718415f5d0800000000000000
+      internalID: -3029492628080910703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cards_white_royal_maksim_lebedik_55
+      rect:
+        serializedVersion: 2
+        x: 5487
+        y: 71
+        width: 358
+        height: 535
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af8a5c55958eff790800000000000000
+      internalID: -7494015784532465414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      cards_white_royal_maksim_lebedik_0: -5083783083010366229
+      cards_white_royal_maksim_lebedik_1: 3426588255119586919
+      cards_white_royal_maksim_lebedik_10: -202294110352864468
+      cards_white_royal_maksim_lebedik_11: 2752444527743250521
+      cards_white_royal_maksim_lebedik_12: 1167769431085744799
+      cards_white_royal_maksim_lebedik_13: -83707828572876765
+      cards_white_royal_maksim_lebedik_14: -5736147535885439675
+      cards_white_royal_maksim_lebedik_15: 7674952235071748752
+      cards_white_royal_maksim_lebedik_16: 2708966342165232386
+      cards_white_royal_maksim_lebedik_17: -271871852342984334
+      cards_white_royal_maksim_lebedik_18: 2511933371005261192
+      cards_white_royal_maksim_lebedik_19: 3579476705510317527
+      cards_white_royal_maksim_lebedik_2: -1238155391597221025
+      cards_white_royal_maksim_lebedik_20: 8875823811178748615
+      cards_white_royal_maksim_lebedik_21: 1020135209214115974
+      cards_white_royal_maksim_lebedik_22: 3375844858058447839
+      cards_white_royal_maksim_lebedik_23: 4055816165553389280
+      cards_white_royal_maksim_lebedik_24: 2531073327055791274
+      cards_white_royal_maksim_lebedik_25: -6118690061888727055
+      cards_white_royal_maksim_lebedik_26: 527340726218051138
+      cards_white_royal_maksim_lebedik_27: -3571291706354114857
+      cards_white_royal_maksim_lebedik_28: -7078437583643346717
+      cards_white_royal_maksim_lebedik_29: -8972410757381218145
+      cards_white_royal_maksim_lebedik_3: -5710118662100388801
+      cards_white_royal_maksim_lebedik_30: -5186392941716864925
+      cards_white_royal_maksim_lebedik_31: -3929015965374459793
+      cards_white_royal_maksim_lebedik_32: -2861077192575035938
+      cards_white_royal_maksim_lebedik_33: -240214090432645216
+      cards_white_royal_maksim_lebedik_34: -7414831298557663626
+      cards_white_royal_maksim_lebedik_35: -1964573005070451520
+      cards_white_royal_maksim_lebedik_36: -5742431784252440639
+      cards_white_royal_maksim_lebedik_37: 4174563558323819957
+      cards_white_royal_maksim_lebedik_38: -7335327469373163100
+      cards_white_royal_maksim_lebedik_39: 532297538656240880
+      cards_white_royal_maksim_lebedik_4: 1770306383013194501
+      cards_white_royal_maksim_lebedik_40: -6508779856404449345
+      cards_white_royal_maksim_lebedik_41: -7964925207504274886
+      cards_white_royal_maksim_lebedik_42: 6532440777948492274
+      cards_white_royal_maksim_lebedik_43: -7111543655690477772
+      cards_white_royal_maksim_lebedik_44: 8521968113357592053
+      cards_white_royal_maksim_lebedik_45: -7619047017805168900
+      cards_white_royal_maksim_lebedik_46: 1784307808427565100
+      cards_white_royal_maksim_lebedik_47: 4811180779024014979
+      cards_white_royal_maksim_lebedik_48: 7585228698643581017
+      cards_white_royal_maksim_lebedik_49: 6616588770488436568
+      cards_white_royal_maksim_lebedik_5: -6143079177348823436
+      cards_white_royal_maksim_lebedik_50: 8653848289978248722
+      cards_white_royal_maksim_lebedik_51: -8912775692807523714
+      cards_white_royal_maksim_lebedik_52: -7219584398369598713
+      cards_white_royal_maksim_lebedik_53: 2198348482795041403
+      cards_white_royal_maksim_lebedik_54: -3029492628080910703
+      cards_white_royal_maksim_lebedik_55: -7494015784532465414
+      cards_white_royal_maksim_lebedik_6: -3575591482228260199
+      cards_white_royal_maksim_lebedik_7: -3822290460533411074
+      cards_white_royal_maksim_lebedik_8: -7844701631790838328
+      cards_white_royal_maksim_lebedik_9: 3180291991175873249
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

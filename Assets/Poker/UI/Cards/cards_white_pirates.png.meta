@@ -1,0 +1,1586 @@
+fileFormatVersion: 2
+guid: a23e61ebe3a237d46978ec06b26c75dd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3229957100277622476
+    second: cards_white_pirates_0
+  - first:
+      213: -6677330715293154416
+    second: cards_white_pirates_1
+  - first:
+      213: -8510915629398155345
+    second: cards_white_pirates_2
+  - first:
+      213: 3856182713578270753
+    second: cards_white_pirates_3
+  - first:
+      213: -5809252641169361636
+    second: cards_white_pirates_4
+  - first:
+      213: -510787940001406103
+    second: cards_white_pirates_5
+  - first:
+      213: -5064049482281095047
+    second: cards_white_pirates_6
+  - first:
+      213: 838440243644859063
+    second: cards_white_pirates_7
+  - first:
+      213: -6515278171055763633
+    second: cards_white_pirates_8
+  - first:
+      213: 9153258732617772267
+    second: cards_white_pirates_9
+  - first:
+      213: 3103310609853267024
+    second: cards_white_pirates_10
+  - first:
+      213: 6690792471321187535
+    second: cards_white_pirates_11
+  - first:
+      213: -6381611255838609832
+    second: cards_white_pirates_12
+  - first:
+      213: 8070508950301487740
+    second: cards_white_pirates_13
+  - first:
+      213: -9092355886665642508
+    second: cards_white_pirates_14
+  - first:
+      213: 87920368544097552
+    second: cards_white_pirates_15
+  - first:
+      213: -8616895545536350591
+    second: cards_white_pirates_16
+  - first:
+      213: -8934028958566479104
+    second: cards_white_pirates_17
+  - first:
+      213: 3631812572134857434
+    second: cards_white_pirates_18
+  - first:
+      213: 4809340784153361190
+    second: cards_white_pirates_19
+  - first:
+      213: -1830096391701370922
+    second: cards_white_pirates_20
+  - first:
+      213: 2977515263057059519
+    second: cards_white_pirates_21
+  - first:
+      213: 4340771281600849877
+    second: cards_white_pirates_22
+  - first:
+      213: -1690269779330689176
+    second: cards_white_pirates_23
+  - first:
+      213: 8125574451164203760
+    second: cards_white_pirates_24
+  - first:
+      213: -8018832941829617760
+    second: cards_white_pirates_25
+  - first:
+      213: -7557320936766154177
+    second: cards_white_pirates_26
+  - first:
+      213: 1666188834114722583
+    second: cards_white_pirates_27
+  - first:
+      213: 2711435977134776673
+    second: cards_white_pirates_28
+  - first:
+      213: 3544337842899430976
+    second: cards_white_pirates_29
+  - first:
+      213: 2047130455124991931
+    second: cards_white_pirates_30
+  - first:
+      213: -2872711723302180351
+    second: cards_white_pirates_31
+  - first:
+      213: 4269548735534205245
+    second: cards_white_pirates_32
+  - first:
+      213: 5200414826763843244
+    second: cards_white_pirates_33
+  - first:
+      213: 7285616833502323964
+    second: cards_white_pirates_34
+  - first:
+      213: -8615102438748220227
+    second: cards_white_pirates_35
+  - first:
+      213: 4422063907633910204
+    second: cards_white_pirates_36
+  - first:
+      213: 7867272208156693311
+    second: cards_white_pirates_37
+  - first:
+      213: -4933587964429524559
+    second: cards_white_pirates_38
+  - first:
+      213: 8834881511310622494
+    second: cards_white_pirates_39
+  - first:
+      213: -879863175017476735
+    second: cards_white_pirates_40
+  - first:
+      213: 2159109085819940199
+    second: cards_white_pirates_41
+  - first:
+      213: -2784885539499230547
+    second: cards_white_pirates_42
+  - first:
+      213: 7432843749502119619
+    second: cards_white_pirates_43
+  - first:
+      213: 6116855726641368814
+    second: cards_white_pirates_44
+  - first:
+      213: -2619119099353505361
+    second: cards_white_pirates_45
+  - first:
+      213: -5117058531994407485
+    second: cards_white_pirates_46
+  - first:
+      213: -5194813546958149384
+    second: cards_white_pirates_47
+  - first:
+      213: -2603657503151355835
+    second: cards_white_pirates_48
+  - first:
+      213: 2140737902694434931
+    second: cards_white_pirates_49
+  - first:
+      213: -1122962231348334621
+    second: cards_white_pirates_50
+  - first:
+      213: 3576433281577184018
+    second: cards_white_pirates_51
+  - first:
+      213: -6770846291469281775
+    second: cards_white_pirates_52
+  - first:
+      213: 4598779655071461776
+    second: cards_white_pirates_53
+  - first:
+      213: -6345859290818807934
+    second: cards_white_pirates_54
+  - first:
+      213: 2101321297084019305
+    second: cards_white_pirates_55
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: cards_white_pirates_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1882
+        width: 6008
+        height: 615
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc66cc1aedc13dc20800000000000000
+      internalID: 3229957100277622476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cards_white_pirates_1
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1882
+        width: 384
+        height: 534
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 093852ba71b5553a0800000000000000
+      internalID: -6677330715293154416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cards_white_pirates_2
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 1882
+        width: 383
+        height: 534
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faf176ce35723e980800000000000000
+      internalID: -8510915629398155345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cards_white_pirates_3
+      rect:
+        serializedVersion: 2
+        x: 1349
+        y: 1882
+        width: 384
+        height: 534
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 120b5df3fb9e38530800000000000000
+      internalID: 3856182713578270753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cards_white_pirates_4
+      rect:
+        serializedVersion: 2
+        x: 1767
+        y: 1882
+        width: 384
+        height: 534
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c15b9986083616fa0800000000000000
+      internalID: -5809252641169361636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cards_white_pirates_5
+      rect:
+        serializedVersion: 2
+        x: 2186
+        y: 1882
+        width: 383
+        height: 534
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 963a9a8231159e8f0800000000000000
+      internalID: -510787940001406103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cards_white_pirates_6
+      rect:
+        serializedVersion: 2
+        x: 2604
+        y: 1882
+        width: 384
+        height: 534
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97072ab83d1e8b9b0800000000000000
+      internalID: -5064049482281095047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cards_white_pirates_7
+      rect:
+        serializedVersion: 2
+        x: 3023
+        y: 1882
+        width: 383
+        height: 534
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b208d795fcb2ab00800000000000000
+      internalID: 838440243644859063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cards_white_pirates_8
+      rect:
+        serializedVersion: 2
+        x: 3441
+        y: 1882
+        width: 384
+        height: 534
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4f4d59d5051595a0800000000000000
+      internalID: -6515278171055763633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cards_white_pirates_9
+      rect:
+        serializedVersion: 2
+        x: 3859
+        y: 1882
+        width: 384
+        height: 534
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: becacee3258e60f70800000000000000
+      internalID: 9153258732617772267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cards_white_pirates_10
+      rect:
+        serializedVersion: 2
+        x: 4278
+        y: 1882
+        width: 383
+        height: 534
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05c3100ce8c211b20800000000000000
+      internalID: 3103310609853267024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cards_white_pirates_11
+      rect:
+        serializedVersion: 2
+        x: 4696
+        y: 1882
+        width: 384
+        height: 534
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc415f6ad487adc50800000000000000
+      internalID: 6690792471321187535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cards_white_pirates_12
+      rect:
+        serializedVersion: 2
+        x: 5114
+        y: 1882
+        width: 384
+        height: 534
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85eea11cf56ff67a0800000000000000
+      internalID: -6381611255838609832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cards_white_pirates_13
+      rect:
+        serializedVersion: 2
+        x: 5533
+        y: 1882
+        width: 383
+        height: 534
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c72b4538125300070800000000000000
+      internalID: 8070508950301487740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cards_white_pirates_14
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 1281
+        width: 383
+        height: 535
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fdccd39e7671d180800000000000000
+      internalID: -9092355886665642508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cards_white_pirates_15
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1281
+        width: 384
+        height: 535
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 015a79ffb1b583100800000000000000
+      internalID: 87920368544097552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cards_white_pirates_16
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 1281
+        width: 383
+        height: 535
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 186f8a5d723aa6880800000000000000
+      internalID: -8616895545536350591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cards_white_pirates_17
+      rect:
+        serializedVersion: 2
+        x: 1349
+        y: 1281
+        width: 384
+        height: 535
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00b87972ff3f30480800000000000000
+      internalID: -8934028958566479104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cards_white_pirates_18
+      rect:
+        serializedVersion: 2
+        x: 1767
+        y: 1281
+        width: 384
+        height: 535
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ada55ecca4ac66230800000000000000
+      internalID: 3631812572134857434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cards_white_pirates_19
+      rect:
+        serializedVersion: 2
+        x: 2186
+        y: 1281
+        width: 383
+        height: 535
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62b724356f53eb240800000000000000
+      internalID: 4809340784153361190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cards_white_pirates_20
+      rect:
+        serializedVersion: 2
+        x: 2604
+        y: 1281
+        width: 384
+        height: 535
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d76aeb27013a96e0800000000000000
+      internalID: -1830096391701370922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cards_white_pirates_21
+      rect:
+        serializedVersion: 2
+        x: 3023
+        y: 1281
+        width: 383
+        height: 535
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbed1df2b52425920800000000000000
+      internalID: 2977515263057059519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cards_white_pirates_22
+      rect:
+        serializedVersion: 2
+        x: 3441
+        y: 1281
+        width: 384
+        height: 535
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d729037b748d3c30800000000000000
+      internalID: 4340771281600849877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cards_white_pirates_23
+      rect:
+        serializedVersion: 2
+        x: 3859
+        y: 1281
+        width: 384
+        height: 535
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8679a645794fa88e0800000000000000
+      internalID: -1690269779330689176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cards_white_pirates_24
+      rect:
+        serializedVersion: 2
+        x: 4278
+        y: 1281
+        width: 383
+        height: 535
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fac1a589e6d3c070800000000000000
+      internalID: 8125574451164203760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cards_white_pirates_25
+      rect:
+        serializedVersion: 2
+        x: 4696
+        y: 1281
+        width: 384
+        height: 535
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a78b0dcce167b090800000000000000
+      internalID: -8018832941829617760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cards_white_pirates_26
+      rect:
+        serializedVersion: 2
+        x: 5114
+        y: 1281
+        width: 384
+        height: 535
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3a5e6ef5a00f1790800000000000000
+      internalID: -7557320936766154177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cards_white_pirates_27
+      rect:
+        serializedVersion: 2
+        x: 5533
+        y: 1281
+        width: 383
+        height: 535
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71b5122baed7f1710800000000000000
+      internalID: 1666188834114722583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cards_white_pirates_28
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 681
+        width: 383
+        height: 535
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1612558c7a4f0a520800000000000000
+      internalID: 2711435977134776673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cards_white_pirates_29
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 681
+        width: 384
+        height: 535
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04eaef94d74003130800000000000000
+      internalID: 3544337842899430976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cards_white_pirates_30
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 681
+        width: 383
+        height: 535
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbfdb928d4ed86c10800000000000000
+      internalID: 2047130455124991931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cards_white_pirates_31
+      rect:
+        serializedVersion: 2
+        x: 1349
+        y: 681
+        width: 384
+        height: 535
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10a297e68e31228d0800000000000000
+      internalID: -2872711723302180351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cards_white_pirates_32
+      rect:
+        serializedVersion: 2
+        x: 1767
+        y: 681
+        width: 384
+        height: 535
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d390cb434fb704b30800000000000000
+      internalID: 4269548735534205245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cards_white_pirates_33
+      rect:
+        serializedVersion: 2
+        x: 2186
+        y: 681
+        width: 384
+        height: 535
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca6fee16bb59b2840800000000000000
+      internalID: 5200414826763843244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cards_white_pirates_34
+      rect:
+        serializedVersion: 2
+        x: 2604
+        y: 681
+        width: 384
+        height: 535
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf42382c8e5bb1560800000000000000
+      internalID: 7285616833502323964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cards_white_pirates_35
+      rect:
+        serializedVersion: 2
+        x: 3023
+        y: 681
+        width: 383
+        height: 535
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db49fca0af1017880800000000000000
+      internalID: -8615102438748220227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cards_white_pirates_36
+      rect:
+        serializedVersion: 2
+        x: 3441
+        y: 681
+        width: 384
+        height: 535
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb15894e1b35e5d30800000000000000
+      internalID: 4422063907633910204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cards_white_pirates_37
+      rect:
+        serializedVersion: 2
+        x: 3859
+        y: 681
+        width: 384
+        height: 535
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f339b76046a2e2d60800000000000000
+      internalID: 7867272208156693311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cards_white_pirates_38
+      rect:
+        serializedVersion: 2
+        x: 4278
+        y: 681
+        width: 383
+        height: 535
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b12908b2ef588bb0800000000000000
+      internalID: -4933587964429524559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cards_white_pirates_39
+      rect:
+        serializedVersion: 2
+        x: 4696
+        y: 681
+        width: 384
+        height: 535
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1ff552ecedcb9a70800000000000000
+      internalID: 8834881511310622494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cards_white_pirates_40
+      rect:
+        serializedVersion: 2
+        x: 5114
+        y: 681
+        width: 384
+        height: 535
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18dc222aa191ac3f0800000000000000
+      internalID: -879863175017476735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cards_white_pirates_41
+      rect:
+        serializedVersion: 2
+        x: 5533
+        y: 681
+        width: 383
+        height: 535
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76dad9b2642b6fd10800000000000000
+      internalID: 2159109085819940199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cards_white_pirates_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 6008
+        height: 615
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daab6065b591a59d0800000000000000
+      internalID: -2784885539499230547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cards_white_pirates_43
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 81
+        width: 384
+        height: 534
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ce6e006204c62760800000000000000
+      internalID: 7432843749502119619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cards_white_pirates_44
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 81
+        width: 383
+        height: 534
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eeec5c8ffdf63e450800000000000000
+      internalID: 6116855726641368814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cards_white_pirates_45
+      rect:
+        serializedVersion: 2
+        x: 1349
+        y: 81
+        width: 383
+        height: 534
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa1e79a4e0507abd0800000000000000
+      internalID: -2619119099353505361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cards_white_pirates_46
+      rect:
+        serializedVersion: 2
+        x: 1767
+        y: 81
+        width: 384
+        height: 534
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cd6791606e8cf8b0800000000000000
+      internalID: -5117058531994407485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cards_white_pirates_47
+      rect:
+        serializedVersion: 2
+        x: 2186
+        y: 81
+        width: 383
+        height: 534
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f82c233a9058e7b0800000000000000
+      internalID: -5194813546958149384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cards_white_pirates_48
+      rect:
+        serializedVersion: 2
+        x: 2604
+        y: 81
+        width: 384
+        height: 534
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54802efab43fddbd0800000000000000
+      internalID: -2603657503151355835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cards_white_pirates_49
+      rect:
+        serializedVersion: 2
+        x: 3022
+        y: 81
+        width: 384
+        height: 534
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3780157c7cd65bd10800000000000000
+      internalID: 2140737902694434931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cards_white_pirates_50
+      rect:
+        serializedVersion: 2
+        x: 3441
+        y: 81
+        width: 383
+        height: 534
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ef6d40eccf6a60f0800000000000000
+      internalID: -1122962231348334621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cards_white_pirates_51
+      rect:
+        serializedVersion: 2
+        x: 3859
+        y: 81
+        width: 384
+        height: 534
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21bea4fee1b02a130800000000000000
+      internalID: 3576433281577184018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cards_white_pirates_52
+      rect:
+        serializedVersion: 2
+        x: 4278
+        y: 81
+        width: 383
+        height: 534
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 116d330eb2f1902a0800000000000000
+      internalID: -6770846291469281775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cards_white_pirates_53
+      rect:
+        serializedVersion: 2
+        x: 4696
+        y: 81
+        width: 384
+        height: 534
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 091f3dc1bb522df30800000000000000
+      internalID: 4598779655071461776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cards_white_pirates_54
+      rect:
+        serializedVersion: 2
+        x: 5114
+        y: 81
+        width: 384
+        height: 534
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 287f128c89afee7a0800000000000000
+      internalID: -6345859290818807934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cards_white_pirates_55
+      rect:
+        serializedVersion: 2
+        x: 5533
+        y: 81
+        width: 383
+        height: 534
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 962f7af1694692d10800000000000000
+      internalID: 2101321297084019305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      cards_white_pirates_0: 3229957100277622476
+      cards_white_pirates_1: -6677330715293154416
+      cards_white_pirates_10: 3103310609853267024
+      cards_white_pirates_11: 6690792471321187535
+      cards_white_pirates_12: -6381611255838609832
+      cards_white_pirates_13: 8070508950301487740
+      cards_white_pirates_14: -9092355886665642508
+      cards_white_pirates_15: 87920368544097552
+      cards_white_pirates_16: -8616895545536350591
+      cards_white_pirates_17: -8934028958566479104
+      cards_white_pirates_18: 3631812572134857434
+      cards_white_pirates_19: 4809340784153361190
+      cards_white_pirates_2: -8510915629398155345
+      cards_white_pirates_20: -1830096391701370922
+      cards_white_pirates_21: 2977515263057059519
+      cards_white_pirates_22: 4340771281600849877
+      cards_white_pirates_23: -1690269779330689176
+      cards_white_pirates_24: 8125574451164203760
+      cards_white_pirates_25: -8018832941829617760
+      cards_white_pirates_26: -7557320936766154177
+      cards_white_pirates_27: 1666188834114722583
+      cards_white_pirates_28: 2711435977134776673
+      cards_white_pirates_29: 3544337842899430976
+      cards_white_pirates_3: 3856182713578270753
+      cards_white_pirates_30: 2047130455124991931
+      cards_white_pirates_31: -2872711723302180351
+      cards_white_pirates_32: 4269548735534205245
+      cards_white_pirates_33: 5200414826763843244
+      cards_white_pirates_34: 7285616833502323964
+      cards_white_pirates_35: -8615102438748220227
+      cards_white_pirates_36: 4422063907633910204
+      cards_white_pirates_37: 7867272208156693311
+      cards_white_pirates_38: -4933587964429524559
+      cards_white_pirates_39: 8834881511310622494
+      cards_white_pirates_4: -5809252641169361636
+      cards_white_pirates_40: -879863175017476735
+      cards_white_pirates_41: 2159109085819940199
+      cards_white_pirates_42: -2784885539499230547
+      cards_white_pirates_43: 7432843749502119619
+      cards_white_pirates_44: 6116855726641368814
+      cards_white_pirates_45: -2619119099353505361
+      cards_white_pirates_46: -5117058531994407485
+      cards_white_pirates_47: -5194813546958149384
+      cards_white_pirates_48: -2603657503151355835
+      cards_white_pirates_49: 2140737902694434931
+      cards_white_pirates_5: -510787940001406103
+      cards_white_pirates_50: -1122962231348334621
+      cards_white_pirates_51: 3576433281577184018
+      cards_white_pirates_52: -6770846291469281775
+      cards_white_pirates_53: 4598779655071461776
+      cards_white_pirates_54: -6345859290818807934
+      cards_white_pirates_55: 2101321297084019305
+      cards_white_pirates_6: -5064049482281095047
+      cards_white_pirates_7: 838440243644859063
+      cards_white_pirates_8: -6515278171055763633
+      cards_white_pirates_9: 9153258732617772267
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

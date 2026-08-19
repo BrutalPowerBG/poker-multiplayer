@@ -1,0 +1,63 @@
+# Unity generated
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+[Mm]emoryCaptures/
+.utmp/
+
+# Visual Studio / IDEs
+.vs/
+.vscode/
+.idea/
+.gradle/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+*.pidb.meta
+*.pdb.meta
+*.mdb.meta
+
+# OS
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Builds
+*.apk
+*.aab
+*.app
+*.unitypackage
+
+# Local tooling
+.cursor/
+.plastic/
+Assets/.agents/
+graphify-out/
+Assets/graphify-out/
+
+# Firebase editor natives over GitHub's 100MB limit (reinstall Firebase SDK locally)
+Assets/Firebase/Plugins/x86_64/FirebaseCppApp-13_11_0.bundle
+Assets/Firebase/Plugins/x86_64/FirebaseCppApp-13_11_0.so
+
+# Plastic / VCS extras
+**/Assets/AssetStoreTools/
+/Assets/Plugins/PlasticSCM*
+
+# Crashlytics
+crashlytics-build.properties
+sysinfo.txt

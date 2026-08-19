@@ -1,0 +1,1586 @@
+fileFormatVersion: 2
+guid: 18d2e57933e36374babc9e4199abfd53
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3431786042855138321
+    second: cards_greece_maksim_lebedik_0
+  - first:
+      213: -2477344333810991223
+    second: cards_greece_maksim_lebedik_1
+  - first:
+      213: 1815071437546208522
+    second: cards_greece_maksim_lebedik_2
+  - first:
+      213: -8424453458217575374
+    second: cards_greece_maksim_lebedik_3
+  - first:
+      213: 4867954638510944852
+    second: cards_greece_maksim_lebedik_4
+  - first:
+      213: 5476231818277775121
+    second: cards_greece_maksim_lebedik_5
+  - first:
+      213: -2026545073089476015
+    second: cards_greece_maksim_lebedik_6
+  - first:
+      213: -6873808375223473193
+    second: cards_greece_maksim_lebedik_7
+  - first:
+      213: 8733506806509573034
+    second: cards_greece_maksim_lebedik_8
+  - first:
+      213: -1323119141478400141
+    second: cards_greece_maksim_lebedik_9
+  - first:
+      213: 8486258280444035874
+    second: cards_greece_maksim_lebedik_10
+  - first:
+      213: 1917623756574540379
+    second: cards_greece_maksim_lebedik_11
+  - first:
+      213: -863874548020303487
+    second: cards_greece_maksim_lebedik_12
+  - first:
+      213: -2308304245532922115
+    second: cards_greece_maksim_lebedik_13
+  - first:
+      213: -7636410346892133337
+    second: cards_greece_maksim_lebedik_14
+  - first:
+      213: 5010675739071015144
+    second: cards_greece_maksim_lebedik_15
+  - first:
+      213: 1154346588090858217
+    second: cards_greece_maksim_lebedik_16
+  - first:
+      213: -164719299798783699
+    second: cards_greece_maksim_lebedik_17
+  - first:
+      213: 4525251585075925838
+    second: cards_greece_maksim_lebedik_18
+  - first:
+      213: -3440055047817550549
+    second: cards_greece_maksim_lebedik_19
+  - first:
+      213: 2960553406796131226
+    second: cards_greece_maksim_lebedik_20
+  - first:
+      213: 8593875052239321718
+    second: cards_greece_maksim_lebedik_21
+  - first:
+      213: 879271400635124591
+    second: cards_greece_maksim_lebedik_22
+  - first:
+      213: -4795668457959377787
+    second: cards_greece_maksim_lebedik_23
+  - first:
+      213: -7585724215824324609
+    second: cards_greece_maksim_lebedik_24
+  - first:
+      213: 5270925748986689016
+    second: cards_greece_maksim_lebedik_25
+  - first:
+      213: -5594697519146335979
+    second: cards_greece_maksim_lebedik_26
+  - first:
+      213: -3008472890883340815
+    second: cards_greece_maksim_lebedik_27
+  - first:
+      213: 2258955785693851176
+    second: cards_greece_maksim_lebedik_28
+  - first:
+      213: -7930393453758047004
+    second: cards_greece_maksim_lebedik_29
+  - first:
+      213: -1385990247986891595
+    second: cards_greece_maksim_lebedik_30
+  - first:
+      213: 1856956399479085596
+    second: cards_greece_maksim_lebedik_31
+  - first:
+      213: 8278665215150693649
+    second: cards_greece_maksim_lebedik_32
+  - first:
+      213: -7430146772150575862
+    second: cards_greece_maksim_lebedik_33
+  - first:
+      213: -7803933708409132654
+    second: cards_greece_maksim_lebedik_34
+  - first:
+      213: 1263047550504047577
+    second: cards_greece_maksim_lebedik_35
+  - first:
+      213: 5824418983280308073
+    second: cards_greece_maksim_lebedik_36
+  - first:
+      213: -4045626580818174412
+    second: cards_greece_maksim_lebedik_37
+  - first:
+      213: 6345261294684600103
+    second: cards_greece_maksim_lebedik_38
+  - first:
+      213: -2698447306509145213
+    second: cards_greece_maksim_lebedik_39
+  - first:
+      213: 7908793492490229860
+    second: cards_greece_maksim_lebedik_40
+  - first:
+      213: 2509969267355307785
+    second: cards_greece_maksim_lebedik_41
+  - first:
+      213: 5994483836220231389
+    second: cards_greece_maksim_lebedik_42
+  - first:
+      213: 8375478834013578317
+    second: cards_greece_maksim_lebedik_43
+  - first:
+      213: 1679043535095915853
+    second: cards_greece_maksim_lebedik_44
+  - first:
+      213: -4755976233781859914
+    second: cards_greece_maksim_lebedik_45
+  - first:
+      213: 8260610267151761089
+    second: cards_greece_maksim_lebedik_46
+  - first:
+      213: -2301905430506086640
+    second: cards_greece_maksim_lebedik_47
+  - first:
+      213: -504180046815995919
+    second: cards_greece_maksim_lebedik_48
+  - first:
+      213: -3935303728654636926
+    second: cards_greece_maksim_lebedik_49
+  - first:
+      213: 7721728288958305680
+    second: cards_greece_maksim_lebedik_50
+  - first:
+      213: 196981297150323840
+    second: cards_greece_maksim_lebedik_51
+  - first:
+      213: 4100836965583505193
+    second: cards_greece_maksim_lebedik_52
+  - first:
+      213: -511582638687830496
+    second: cards_greece_maksim_lebedik_53
+  - first:
+      213: 6500001937599336239
+    second: cards_greece_maksim_lebedik_54
+  - first:
+      213: 996107651287611421
+    second: cards_greece_maksim_lebedik_55
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: cards_greece_maksim_lebedik_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1892
+        width: 5941
+        height: 633
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 114268d393720af20800000000000000
+      internalID: 3431786042855138321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cards_greece_maksim_lebedik_1
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 1892
+        width: 357
+        height: 547
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98f7ed43474be9dd0800000000000000
+      internalID: -2477344333810991223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cards_greece_maksim_lebedik_2
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 1892
+        width: 357
+        height: 547
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0d36e41bdd603910800000000000000
+      internalID: 1815071437546208522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cards_greece_maksim_lebedik_3
+      rect:
+        serializedVersion: 2
+        x: 1326
+        y: 1892
+        width: 357
+        height: 547
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23c5124e634561b80800000000000000
+      internalID: -8424453458217575374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cards_greece_maksim_lebedik_4
+      rect:
+        serializedVersion: 2
+        x: 1744
+        y: 1892
+        width: 357
+        height: 547
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 452f823c3f27e8340800000000000000
+      internalID: 4867954638510944852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cards_greece_maksim_lebedik_5
+      rect:
+        serializedVersion: 2
+        x: 2162
+        y: 1892
+        width: 357
+        height: 547
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 117632c03db7ffb40800000000000000
+      internalID: 5476231818277775121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cards_greece_maksim_lebedik_6
+      rect:
+        serializedVersion: 2
+        x: 2580
+        y: 1892
+        width: 357
+        height: 547
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15a0f2d3ef340e3e0800000000000000
+      internalID: -2026545073089476015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cards_greece_maksim_lebedik_7
+      rect:
+        serializedVersion: 2
+        x: 2998
+        y: 1892
+        width: 357
+        height: 547
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7db23b4a3b35b90a0800000000000000
+      internalID: -6873808375223473193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cards_greece_maksim_lebedik_8
+      rect:
+        serializedVersion: 2
+        x: 3416
+        y: 1892
+        width: 357
+        height: 547
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa3957d1b26a33970800000000000000
+      internalID: 8733506806509573034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cards_greece_maksim_lebedik_9
+      rect:
+        serializedVersion: 2
+        x: 3834
+        y: 1892
+        width: 357
+        height: 547
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37ff8a8a62653ade0800000000000000
+      internalID: -1323119141478400141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cards_greece_maksim_lebedik_10
+      rect:
+        serializedVersion: 2
+        x: 4252
+        y: 1892
+        width: 357
+        height: 547
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2238516a1fe35c570800000000000000
+      internalID: 8486258280444035874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cards_greece_maksim_lebedik_11
+      rect:
+        serializedVersion: 2
+        x: 4670
+        y: 1892
+        width: 357
+        height: 547
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b52c97785a4cc9a10800000000000000
+      internalID: 1917623756574540379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cards_greece_maksim_lebedik_12
+      rect:
+        serializedVersion: 2
+        x: 5088
+        y: 1892
+        width: 357
+        height: 547
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 189afb2fca6e204f0800000000000000
+      internalID: -863874548020303487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cards_greece_maksim_lebedik_13
+      rect:
+        serializedVersion: 2
+        x: 5506
+        y: 1892
+        width: 357
+        height: 547
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfeeb73c48147ffd0800000000000000
+      internalID: -2308304245532922115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cards_greece_maksim_lebedik_14
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 1290
+        width: 357
+        height: 547
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72c706abf35060690800000000000000
+      internalID: -7636410346892133337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cards_greece_maksim_lebedik_15
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 1290
+        width: 357
+        height: 547
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e8eef7790f798540800000000000000
+      internalID: 5010675739071015144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cards_greece_maksim_lebedik_16
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 1290
+        width: 357
+        height: 547
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9eaf6da1b10150010800000000000000
+      internalID: 1154346588090858217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cards_greece_maksim_lebedik_17
+      rect:
+        serializedVersion: 2
+        x: 1326
+        y: 1290
+        width: 357
+        height: 547
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d29a7d76bacc6bdf0800000000000000
+      internalID: -164719299798783699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cards_greece_maksim_lebedik_18
+      rect:
+        serializedVersion: 2
+        x: 1744
+        y: 1290
+        width: 357
+        height: 547
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4359bf375cecce30800000000000000
+      internalID: 4525251585075925838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cards_greece_maksim_lebedik_19
+      rect:
+        serializedVersion: 2
+        x: 2162
+        y: 1290
+        width: 357
+        height: 547
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b25ab0309287240d0800000000000000
+      internalID: -3440055047817550549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cards_greece_maksim_lebedik_20
+      rect:
+        serializedVersion: 2
+        x: 2580
+        y: 1290
+        width: 357
+        height: 547
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9be7a643aff51920800000000000000
+      internalID: 2960553406796131226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cards_greece_maksim_lebedik_21
+      rect:
+        serializedVersion: 2
+        x: 2998
+        y: 1290
+        width: 357
+        height: 547
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67af0d4e3d3934770800000000000000
+      internalID: 8593875052239321718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cards_greece_maksim_lebedik_22
+      rect:
+        serializedVersion: 2
+        x: 3416
+        y: 1290
+        width: 357
+        height: 547
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6b44082eacc33c00800000000000000
+      internalID: 879271400635124591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cards_greece_maksim_lebedik_23
+      rect:
+        serializedVersion: 2
+        x: 3834
+        y: 1290
+        width: 357
+        height: 547
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58439ce22fc527db0800000000000000
+      internalID: -4795668457959377787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cards_greece_maksim_lebedik_24
+      rect:
+        serializedVersion: 2
+        x: 4252
+        y: 1290
+        width: 357
+        height: 547
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff766bf34081ab690800000000000000
+      internalID: -7585724215824324609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cards_greece_maksim_lebedik_25
+      rect:
+        serializedVersion: 2
+        x: 4670
+        y: 1290
+        width: 357
+        height: 547
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f5bfc9ca07162940800000000000000
+      internalID: 5270925748986689016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cards_greece_maksim_lebedik_26
+      rect:
+        serializedVersion: 2
+        x: 5088
+        y: 1290
+        width: 357
+        height: 547
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51106819f34ab52b0800000000000000
+      internalID: -5594697519146335979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cards_greece_maksim_lebedik_27
+      rect:
+        serializedVersion: 2
+        x: 5506
+        y: 1290
+        width: 357
+        height: 547
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f5818668d1cf36d0800000000000000
+      internalID: -3008472890883340815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cards_greece_maksim_lebedik_28
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 689
+        width: 357
+        height: 546
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82e6891915c695f10800000000000000
+      internalID: 2258955785693851176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cards_greece_maksim_lebedik_29
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 688
+        width: 357
+        height: 547
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ec1babbb2591f190800000000000000
+      internalID: -7930393453758047004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cards_greece_maksim_lebedik_30
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 688
+        width: 357
+        height: 547
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b4f5967639f3cce0800000000000000
+      internalID: -1385990247986891595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cards_greece_maksim_lebedik_31
+      rect:
+        serializedVersion: 2
+        x: 1326
+        y: 688
+        width: 357
+        height: 547
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1ad65ab10c35c910800000000000000
+      internalID: 1856956399479085596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cards_greece_maksim_lebedik_32
+      rect:
+        serializedVersion: 2
+        x: 1744
+        y: 688
+        width: 357
+        height: 547
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11d9073a62ab3e270800000000000000
+      internalID: 8278665215150693649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cards_greece_maksim_lebedik_33
+      rect:
+        serializedVersion: 2
+        x: 2162
+        y: 688
+        width: 357
+        height: 547
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0d13f890e0d2e890800000000000000
+      internalID: -7430146772150575862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cards_greece_maksim_lebedik_34
+      rect:
+        serializedVersion: 2
+        x: 2580
+        y: 688
+        width: 357
+        height: 547
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 299a393a3abd2b390800000000000000
+      internalID: -7803933708409132654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cards_greece_maksim_lebedik_35
+      rect:
+        serializedVersion: 2
+        x: 2998
+        y: 688
+        width: 357
+        height: 547
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d398362e0f378110800000000000000
+      internalID: 1263047550504047577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cards_greece_maksim_lebedik_36
+      rect:
+        serializedVersion: 2
+        x: 3416
+        y: 688
+        width: 357
+        height: 547
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96fe679c43e74d050800000000000000
+      internalID: 5824418983280308073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cards_greece_maksim_lebedik_37
+      rect:
+        serializedVersion: 2
+        x: 3834
+        y: 688
+        width: 357
+        height: 547
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43e54743f0c0bd7c0800000000000000
+      internalID: -4045626580818174412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cards_greece_maksim_lebedik_38
+      rect:
+        serializedVersion: 2
+        x: 4252
+        y: 688
+        width: 357
+        height: 547
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 727f5b46785ee0850800000000000000
+      internalID: 6345261294684600103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cards_greece_maksim_lebedik_39
+      rect:
+        serializedVersion: 2
+        x: 4670
+        y: 688
+        width: 357
+        height: 547
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38ba962c8703d8ad0800000000000000
+      internalID: -2698447306509145213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cards_greece_maksim_lebedik_40
+      rect:
+        serializedVersion: 2
+        x: 5088
+        y: 688
+        width: 357
+        height: 547
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4681dc167cda1cd60800000000000000
+      internalID: 7908793492490229860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cards_greece_maksim_lebedik_41
+      rect:
+        serializedVersion: 2
+        x: 5506
+        y: 688
+        width: 357
+        height: 547
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90f4cd110c335d220800000000000000
+      internalID: 2509969267355307785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cards_greece_maksim_lebedik_42
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 87
+        width: 357
+        height: 546
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dde4ab5f94fa03350800000000000000
+      internalID: 5994483836220231389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cards_greece_maksim_lebedik_43
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 87
+        width: 357
+        height: 546
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d44ae25df9dab3470800000000000000
+      internalID: 8375478834013578317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cards_greece_maksim_lebedik_44
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 87
+        width: 357
+        height: 546
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d45eecff2392d4710800000000000000
+      internalID: 1679043535095915853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cards_greece_maksim_lebedik_45
+      rect:
+        serializedVersion: 2
+        x: 1326
+        y: 87
+        width: 357
+        height: 546
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b96b3940d06ffdb0800000000000000
+      internalID: -4755976233781859914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cards_greece_maksim_lebedik_46
+      rect:
+        serializedVersion: 2
+        x: 1744
+        y: 87
+        width: 357
+        height: 546
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ce7689754593a270800000000000000
+      internalID: 8260610267151761089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cards_greece_maksim_lebedik_47
+      rect:
+        serializedVersion: 2
+        x: 2162
+        y: 87
+        width: 357
+        height: 546
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01f542cf43dfd00e0800000000000000
+      internalID: -2301905430506086640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cards_greece_maksim_lebedik_48
+      rect:
+        serializedVersion: 2
+        x: 2580
+        y: 87
+        width: 357
+        height: 546
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f751be2beac009f0800000000000000
+      internalID: -504180046815995919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cards_greece_maksim_lebedik_49
+      rect:
+        serializedVersion: 2
+        x: 2998
+        y: 87
+        width: 357
+        height: 546
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2882542eb1ef269c0800000000000000
+      internalID: -3935303728654636926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cards_greece_maksim_lebedik_50
+      rect:
+        serializedVersion: 2
+        x: 3416
+        y: 87
+        width: 357
+        height: 546
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 095d173a7f6192b60800000000000000
+      internalID: 7721728288958305680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cards_greece_maksim_lebedik_51
+      rect:
+        serializedVersion: 2
+        x: 3834
+        y: 87
+        width: 357
+        height: 546
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08c6a043271dbb200800000000000000
+      internalID: 196981297150323840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cards_greece_maksim_lebedik_52
+      rect:
+        serializedVersion: 2
+        x: 4252
+        y: 87
+        width: 357
+        height: 546
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92745673e7919e830800000000000000
+      internalID: 4100836965583505193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cards_greece_maksim_lebedik_53
+      rect:
+        serializedVersion: 2
+        x: 4670
+        y: 87
+        width: 357
+        height: 546
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02e31c3fc4e76e8f0800000000000000
+      internalID: -511582638687830496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cards_greece_maksim_lebedik_54
+      rect:
+        serializedVersion: 2
+        x: 5088
+        y: 87
+        width: 357
+        height: 546
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2f85f1e255a43a50800000000000000
+      internalID: 6500001937599336239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cards_greece_maksim_lebedik_55
+      rect:
+        serializedVersion: 2
+        x: 5506
+        y: 87
+        width: 357
+        height: 546
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d18fb0991a2e2dd00800000000000000
+      internalID: 996107651287611421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      cards_greece_maksim_lebedik_0: 3431786042855138321
+      cards_greece_maksim_lebedik_1: -2477344333810991223
+      cards_greece_maksim_lebedik_10: 8486258280444035874
+      cards_greece_maksim_lebedik_11: 1917623756574540379
+      cards_greece_maksim_lebedik_12: -863874548020303487
+      cards_greece_maksim_lebedik_13: -2308304245532922115
+      cards_greece_maksim_lebedik_14: -7636410346892133337
+      cards_greece_maksim_lebedik_15: 5010675739071015144
+      cards_greece_maksim_lebedik_16: 1154346588090858217
+      cards_greece_maksim_lebedik_17: -164719299798783699
+      cards_greece_maksim_lebedik_18: 4525251585075925838
+      cards_greece_maksim_lebedik_19: -3440055047817550549
+      cards_greece_maksim_lebedik_2: 1815071437546208522
+      cards_greece_maksim_lebedik_20: 2960553406796131226
+      cards_greece_maksim_lebedik_21: 8593875052239321718
+      cards_greece_maksim_lebedik_22: 879271400635124591
+      cards_greece_maksim_lebedik_23: -4795668457959377787
+      cards_greece_maksim_lebedik_24: -7585724215824324609
+      cards_greece_maksim_lebedik_25: 5270925748986689016
+      cards_greece_maksim_lebedik_26: -5594697519146335979
+      cards_greece_maksim_lebedik_27: -3008472890883340815
+      cards_greece_maksim_lebedik_28: 2258955785693851176
+      cards_greece_maksim_lebedik_29: -7930393453758047004
+      cards_greece_maksim_lebedik_3: -8424453458217575374
+      cards_greece_maksim_lebedik_30: -1385990247986891595
+      cards_greece_maksim_lebedik_31: 1856956399479085596
+      cards_greece_maksim_lebedik_32: 8278665215150693649
+      cards_greece_maksim_lebedik_33: -7430146772150575862
+      cards_greece_maksim_lebedik_34: -7803933708409132654
+      cards_greece_maksim_lebedik_35: 1263047550504047577
+      cards_greece_maksim_lebedik_36: 5824418983280308073
+      cards_greece_maksim_lebedik_37: -4045626580818174412
+      cards_greece_maksim_lebedik_38: 6345261294684600103
+      cards_greece_maksim_lebedik_39: -2698447306509145213
+      cards_greece_maksim_lebedik_4: 4867954638510944852
+      cards_greece_maksim_lebedik_40: 7908793492490229860
+      cards_greece_maksim_lebedik_41: 2509969267355307785
+      cards_greece_maksim_lebedik_42: 5994483836220231389
+      cards_greece_maksim_lebedik_43: 8375478834013578317
+      cards_greece_maksim_lebedik_44: 1679043535095915853
+      cards_greece_maksim_lebedik_45: -4755976233781859914
+      cards_greece_maksim_lebedik_46: 8260610267151761089
+      cards_greece_maksim_lebedik_47: -2301905430506086640
+      cards_greece_maksim_lebedik_48: -504180046815995919
+      cards_greece_maksim_lebedik_49: -3935303728654636926
+      cards_greece_maksim_lebedik_5: 5476231818277775121
+      cards_greece_maksim_lebedik_50: 7721728288958305680
+      cards_greece_maksim_lebedik_51: 196981297150323840
+      cards_greece_maksim_lebedik_52: 4100836965583505193
+      cards_greece_maksim_lebedik_53: -511582638687830496
+      cards_greece_maksim_lebedik_54: 6500001937599336239
+      cards_greece_maksim_lebedik_55: 996107651287611421
+      cards_greece_maksim_lebedik_6: -2026545073089476015
+      cards_greece_maksim_lebedik_7: -6873808375223473193
+      cards_greece_maksim_lebedik_8: 8733506806509573034
+      cards_greece_maksim_lebedik_9: -1323119141478400141
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

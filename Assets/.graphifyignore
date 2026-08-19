@@ -1,0 +1,42 @@
+# Graphify ignore file (same syntax as .gitignore).
+# Goal: map only first-party game source so the knowledge graph stays small,
+# fast to build, and cheap to query. Third-party SDKs and Unity binary/asset
+# noise add thousands of nodes with little value for answering questions about
+# our own code.
+
+# ---- Unity metadata / binary-ish assets (not source) ----
+*.meta
+
+# ---- Sprite / texture / art (no value for code Q&A; would need an LLM key) ----
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.webp
+*.psd
+*.tga
+
+# ---- Vendored TextMesh Pro (font licenses, config txt, sprite atlases) ----
+TextMesh Pro/
+
+# ---- Third-party SDKs and generated/managed dependency folders ----
+Firebase/
+Plugins/
+ExternalDependencyManager/
+GeneratedLocalRepo/
+Editor Default Resources/
+
+# ---- Non-source asset / config folders ----
+StreamingAssets/
+Resources/
+Settings/
+
+# ---- Tooling / agent config (not project code) ----
+.agents/
+.cursor/
+graphify-out/
+
+# Keep first-party game code:
+#   Poker/           (main poker gameplay + networking)
+#   LobbyTutorial/   (lobby / matchmaking)
+#   TicTacToe/       (small sample game)

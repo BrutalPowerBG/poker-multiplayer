@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "969925921931",
+    "project_id": "pokerpine-b3498",
+    "storage_bucket": "pokerpine-b3498.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:969925921931:android:822c5a1ced97c74f34588e",
+        "android_client_info": {
+          "package_name": "com.PineFig.PokerPine"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_HehYBMZvxIkK7OqDjKUAjTvtxE4Yoho"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

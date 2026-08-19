@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 865c805c66aa41246a630c1dacbff7f9
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - marineSprite: {fileID: 824373192237454732, guid: 01380124773092646ab32ea1550c6db6, type: 3}
+  - ninjaSprite: {fileID: -9127426870807169397, guid: f226a2d7c5c83ac4cb1acb211a6f1ba8, type: 3}
+  - zombieSprite: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

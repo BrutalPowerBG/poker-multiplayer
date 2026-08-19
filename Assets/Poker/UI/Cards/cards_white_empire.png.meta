@@ -1,0 +1,1586 @@
+fileFormatVersion: 2
+guid: 091969487db25914b9cae6430c652f33
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6155403405143950543
+    second: cards_white_empire_0
+  - first:
+      213: 4295108803987903722
+    second: cards_white_empire_1
+  - first:
+      213: 1001956102957300722
+    second: cards_white_empire_2
+  - first:
+      213: -960021468611514600
+    second: cards_white_empire_3
+  - first:
+      213: 5246364849788378743
+    second: cards_white_empire_4
+  - first:
+      213: -2229331599151718090
+    second: cards_white_empire_5
+  - first:
+      213: 4093753095831367728
+    second: cards_white_empire_6
+  - first:
+      213: 6969111433299448765
+    second: cards_white_empire_7
+  - first:
+      213: 1080901345354961470
+    second: cards_white_empire_8
+  - first:
+      213: -1900806527795885215
+    second: cards_white_empire_9
+  - first:
+      213: -8960095218207198913
+    second: cards_white_empire_10
+  - first:
+      213: 3774156272032197820
+    second: cards_white_empire_11
+  - first:
+      213: 7435525726703852877
+    second: cards_white_empire_12
+  - first:
+      213: -920983697976344993
+    second: cards_white_empire_13
+  - first:
+      213: -8576942067350181538
+    second: cards_white_empire_14
+  - first:
+      213: 6713285222874116896
+    second: cards_white_empire_15
+  - first:
+      213: -7250744699547791290
+    second: cards_white_empire_16
+  - first:
+      213: 7812395222157950983
+    second: cards_white_empire_17
+  - first:
+      213: 164123005315546714
+    second: cards_white_empire_18
+  - first:
+      213: -7989362335897942999
+    second: cards_white_empire_19
+  - first:
+      213: -7976129247541668749
+    second: cards_white_empire_20
+  - first:
+      213: 2117758661708418700
+    second: cards_white_empire_21
+  - first:
+      213: -7962982255650719871
+    second: cards_white_empire_22
+  - first:
+      213: 977338310278247902
+    second: cards_white_empire_23
+  - first:
+      213: 5514870351047761449
+    second: cards_white_empire_24
+  - first:
+      213: -6845327857205411031
+    second: cards_white_empire_25
+  - first:
+      213: 3065465678711170773
+    second: cards_white_empire_26
+  - first:
+      213: 893452803972039958
+    second: cards_white_empire_27
+  - first:
+      213: 4569450407478252486
+    second: cards_white_empire_28
+  - first:
+      213: -2226831438534748102
+    second: cards_white_empire_29
+  - first:
+      213: -8189589236783653731
+    second: cards_white_empire_30
+  - first:
+      213: -2934848559388773520
+    second: cards_white_empire_31
+  - first:
+      213: -1695512542164281465
+    second: cards_white_empire_32
+  - first:
+      213: -6937347910620614834
+    second: cards_white_empire_33
+  - first:
+      213: 8948940528058645641
+    second: cards_white_empire_34
+  - first:
+      213: -5692732046709239757
+    second: cards_white_empire_35
+  - first:
+      213: -5213811844288537881
+    second: cards_white_empire_36
+  - first:
+      213: 6933470050833092304
+    second: cards_white_empire_37
+  - first:
+      213: -5610794769512657821
+    second: cards_white_empire_38
+  - first:
+      213: -6716279233828958356
+    second: cards_white_empire_39
+  - first:
+      213: -3719216301388365468
+    second: cards_white_empire_40
+  - first:
+      213: 5902749718556990817
+    second: cards_white_empire_41
+  - first:
+      213: 4537184922373393198
+    second: cards_white_empire_42
+  - first:
+      213: 3149175947193756710
+    second: cards_white_empire_43
+  - first:
+      213: 502590803886303811
+    second: cards_white_empire_44
+  - first:
+      213: -7746956538112578235
+    second: cards_white_empire_45
+  - first:
+      213: 3801947955091020034
+    second: cards_white_empire_46
+  - first:
+      213: -5577907208831474136
+    second: cards_white_empire_47
+  - first:
+      213: -3798798362066534962
+    second: cards_white_empire_48
+  - first:
+      213: -6233099969824726991
+    second: cards_white_empire_49
+  - first:
+      213: 5433737981168944576
+    second: cards_white_empire_50
+  - first:
+      213: -6160839913573301323
+    second: cards_white_empire_51
+  - first:
+      213: -4715346902868139222
+    second: cards_white_empire_52
+  - first:
+      213: 457461557219405624
+    second: cards_white_empire_53
+  - first:
+      213: 6429903578938967820
+    second: cards_white_empire_54
+  - first:
+      213: -16860532927666532
+    second: cards_white_empire_55
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: cards_white_empire_0
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 1872
+        width: 354
+        height: 531
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc4c5d4c8c26c6550800000000000000
+      internalID: 6155403405143950543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cards_white_empire_1
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 1872
+        width: 355
+        height: 531
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae41a5563ba4b9b30800000000000000
+      internalID: 4295108803987903722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cards_white_empire_2
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 1872
+        width: 354
+        height: 531
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fbfd4d54c9a7ed00800000000000000
+      internalID: 1001956102957300722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cards_white_empire_3
+      rect:
+        serializedVersion: 2
+        x: 1356
+        y: 1872
+        width: 354
+        height: 531
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81f69aa8f815da2f0800000000000000
+      internalID: -960021468611514600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cards_white_empire_4
+      rect:
+        serializedVersion: 2
+        x: 1776
+        y: 1872
+        width: 354
+        height: 531
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77e5bb1d805dec840800000000000000
+      internalID: 5246364849788378743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cards_white_empire_5
+      rect:
+        serializedVersion: 2
+        x: 2196
+        y: 1872
+        width: 355
+        height: 531
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 631220ad8b2df01e0800000000000000
+      internalID: -2229331599151718090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cards_white_empire_6
+      rect:
+        serializedVersion: 2
+        x: 2617
+        y: 1872
+        width: 354
+        height: 531
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0303f2340ceefc830800000000000000
+      internalID: 4093753095831367728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cards_white_empire_7
+      rect:
+        serializedVersion: 2
+        x: 3037
+        y: 1872
+        width: 354
+        height: 531
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db35de5bce147b060800000000000000
+      internalID: 6969111433299448765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cards_white_empire_8
+      rect:
+        serializedVersion: 2
+        x: 3457
+        y: 1872
+        width: 355
+        height: 531
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e32df17fb02200f00800000000000000
+      internalID: 1080901345354961470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cards_white_empire_9
+      rect:
+        serializedVersion: 2
+        x: 3878
+        y: 1872
+        width: 354
+        height: 531
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16b8bfba88afe95e0800000000000000
+      internalID: -1900806527795885215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cards_white_empire_10
+      rect:
+        serializedVersion: 2
+        x: 4298
+        y: 1872
+        width: 354
+        height: 531
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3175152fd857a380800000000000000
+      internalID: -8960095218207198913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cards_white_empire_11
+      rect:
+        serializedVersion: 2
+        x: 4718
+        y: 1872
+        width: 354
+        height: 531
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbcaa41122f706430800000000000000
+      internalID: 3774156272032197820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cards_white_empire_12
+      rect:
+        serializedVersion: 2
+        x: 5138
+        y: 1872
+        width: 355
+        height: 531
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4d167ad04b403760800000000000000
+      internalID: 7435525726703852877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cards_white_empire_13
+      rect:
+        serializedVersion: 2
+        x: 5559
+        y: 1872
+        width: 354
+        height: 531
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5eb13ec4320833f0800000000000000
+      internalID: -920983697976344993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cards_white_empire_14
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 1280
+        width: 354
+        height: 530
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e59ec70e1a498f880800000000000000
+      internalID: -8576942067350181538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cards_white_empire_15
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 1280
+        width: 355
+        height: 530
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0237a4977516a2d50800000000000000
+      internalID: 6713285222874116896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cards_white_empire_16
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 1280
+        width: 354
+        height: 530
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6405862ac1e206b90800000000000000
+      internalID: -7250744699547791290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cards_white_empire_17
+      rect:
+        serializedVersion: 2
+        x: 1356
+        y: 1280
+        width: 354
+        height: 530
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7000fad00143b6c60800000000000000
+      internalID: 7812395222157950983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cards_white_empire_18
+      rect:
+        serializedVersion: 2
+        x: 1776
+        y: 1280
+        width: 354
+        height: 530
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5e7d47f005174200800000000000000
+      internalID: 164123005315546714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cards_white_empire_19
+      rect:
+        serializedVersion: 2
+        x: 2196
+        y: 1280
+        width: 355
+        height: 530
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9240be2f845102190800000000000000
+      internalID: -7989362335897942999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cards_white_empire_20
+      rect:
+        serializedVersion: 2
+        x: 2617
+        y: 1280
+        width: 354
+        height: 530
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 374dcad65b81f4190800000000000000
+      internalID: -7976129247541668749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cards_white_empire_21
+      rect:
+        serializedVersion: 2
+        x: 3037
+        y: 1280
+        width: 354
+        height: 530
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8e032f484ac36d10800000000000000
+      internalID: 2117758661708418700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cards_white_empire_22
+      rect:
+        serializedVersion: 2
+        x: 3457
+        y: 1280
+        width: 355
+        height: 530
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 187333304ddcd7190800000000000000
+      internalID: -7962982255650719871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cards_white_empire_23
+      rect:
+        serializedVersion: 2
+        x: 3878
+        y: 1280
+        width: 354
+        height: 530
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed5f389d304309d00800000000000000
+      internalID: 977338310278247902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cards_white_empire_24
+      rect:
+        serializedVersion: 2
+        x: 4298
+        y: 1280
+        width: 354
+        height: 530
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92e19808d51c88c40800000000000000
+      internalID: 5514870351047761449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cards_white_empire_25
+      rect:
+        serializedVersion: 2
+        x: 4718
+        y: 1280
+        width: 354
+        height: 530
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9238f2cf4928001a0800000000000000
+      internalID: -6845327857205411031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cards_white_empire_26
+      rect:
+        serializedVersion: 2
+        x: 5138
+        y: 1280
+        width: 355
+        height: 530
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d62bb21bc8ba8a20800000000000000
+      internalID: 3065465678711170773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cards_white_empire_27
+      rect:
+        serializedVersion: 2
+        x: 5559
+        y: 1280
+        width: 354
+        height: 530
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 615845c679e266c00800000000000000
+      internalID: 893452803972039958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cards_white_empire_28
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 687
+        width: 354
+        height: 530
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c351848fe2f96f30800000000000000
+      internalID: 4569450407478252486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cards_white_empire_29
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 687
+        width: 355
+        height: 530
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a38d67bda94b811e0800000000000000
+      internalID: -2226831438534748102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cards_white_empire_30
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 687
+        width: 354
+        height: 530
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9cd52dbafbb85e80800000000000000
+      internalID: -8189589236783653731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cards_white_empire_31
+      rect:
+        serializedVersion: 2
+        x: 1356
+        y: 687
+        width: 354
+        height: 530
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 073b014e8c25547d0800000000000000
+      internalID: -2934848559388773520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cards_white_empire_32
+      rect:
+        serializedVersion: 2
+        x: 1776
+        y: 687
+        width: 354
+        height: 530
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 787141c73545878e0800000000000000
+      internalID: -1695512542164281465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cards_white_empire_33
+      rect:
+        serializedVersion: 2
+        x: 2196
+        y: 687
+        width: 355
+        height: 530
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4fe828b4d699bf90800000000000000
+      internalID: -6937347910620614834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cards_white_empire_34
+      rect:
+        serializedVersion: 2
+        x: 2617
+        y: 687
+        width: 354
+        height: 530
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98c380b2ff5013c70800000000000000
+      internalID: 8948940528058645641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cards_white_empire_35
+      rect:
+        serializedVersion: 2
+        x: 3037
+        y: 687
+        width: 354
+        height: 530
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 330d96a6d5a5ff0b0800000000000000
+      internalID: -5692732046709239757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cards_white_empire_36
+      rect:
+        serializedVersion: 2
+        x: 3457
+        y: 687
+        width: 355
+        height: 530
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ea157760c1d4a7b0800000000000000
+      internalID: -5213811844288537881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cards_white_empire_37
+      rect:
+        serializedVersion: 2
+        x: 3878
+        y: 687
+        width: 354
+        height: 530
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0de47b0b642a83060800000000000000
+      internalID: 6933470050833092304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cards_white_empire_38
+      rect:
+        serializedVersion: 2
+        x: 4298
+        y: 687
+        width: 354
+        height: 530
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36c049762e37222b0800000000000000
+      internalID: -5610794769512657821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cards_white_empire_39
+      rect:
+        serializedVersion: 2
+        x: 4718
+        y: 687
+        width: 354
+        height: 530
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6fca470f9bfac2a0800000000000000
+      internalID: -6716279233828958356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cards_white_empire_40
+      rect:
+        serializedVersion: 2
+        x: 5138
+        y: 687
+        width: 355
+        height: 530
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46187e8aa70b26cc0800000000000000
+      internalID: -3719216301388365468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cards_white_empire_41
+      rect:
+        serializedVersion: 2
+        x: 5559
+        y: 687
+        width: 354
+        height: 530
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16d50ac4897cae150800000000000000
+      internalID: 5902749718556990817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cards_white_empire_42
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 94
+        width: 354
+        height: 531
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2b035ad5a157fe30800000000000000
+      internalID: 4537184922373393198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cards_white_empire_43
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 94
+        width: 355
+        height: 531
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62c20b3c6de14bb20800000000000000
+      internalID: 3149175947193756710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cards_white_empire_44
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 94
+        width: 354
+        height: 531
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34a650d5caf89f600800000000000000
+      internalID: 502590803886303811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cards_white_empire_45
+      rect:
+        serializedVersion: 2
+        x: 1356
+        y: 94
+        width: 354
+        height: 531
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54de86fd2184d7490800000000000000
+      internalID: -7746956538112578235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cards_white_empire_46
+      rect:
+        serializedVersion: 2
+        x: 1776
+        y: 94
+        width: 354
+        height: 531
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20919b5858b33c430800000000000000
+      internalID: 3801947955091020034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cards_white_empire_47
+      rect:
+        serializedVersion: 2
+        x: 2196
+        y: 94
+        width: 355
+        height: 531
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 826628352fa4792b0800000000000000
+      internalID: -5577907208831474136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cards_white_empire_48
+      rect:
+        serializedVersion: 2
+        x: 2617
+        y: 94
+        width: 354
+        height: 531
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecd30bf3405f74bc0800000000000000
+      internalID: -3798798362066534962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cards_white_empire_49
+      rect:
+        serializedVersion: 2
+        x: 3037
+        y: 94
+        width: 354
+        height: 531
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13069111a949f79a0800000000000000
+      internalID: -6233099969824726991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cards_white_empire_50
+      rect:
+        serializedVersion: 2
+        x: 3457
+        y: 94
+        width: 355
+        height: 531
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c58f1a97e3886b40800000000000000
+      internalID: 5433737981168944576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cards_white_empire_51
+      rect:
+        serializedVersion: 2
+        x: 3878
+        y: 94
+        width: 354
+        height: 531
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b34a697dbc408aa0800000000000000
+      internalID: -6160839913573301323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cards_white_empire_52
+      rect:
+        serializedVersion: 2
+        x: 4298
+        y: 94
+        width: 354
+        height: 531
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a236ecd89f8bf8eb0800000000000000
+      internalID: -4715346902868139222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cards_white_empire_53
+      rect:
+        serializedVersion: 2
+        x: 4718
+        y: 94
+        width: 354
+        height: 531
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83fa570dcda395600800000000000000
+      internalID: 457461557219405624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cards_white_empire_54
+      rect:
+        serializedVersion: 2
+        x: 5138
+        y: 94
+        width: 355
+        height: 531
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c078baaec3b9b3950800000000000000
+      internalID: 6429903578938967820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cards_white_empire_55
+      rect:
+        serializedVersion: 2
+        x: 5559
+        y: 94
+        width: 354
+        height: 531
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c966f144f6914cff0800000000000000
+      internalID: -16860532927666532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      cards_white_empire_0: 6155403405143950543
+      cards_white_empire_1: 4295108803987903722
+      cards_white_empire_10: -8960095218207198913
+      cards_white_empire_11: 3774156272032197820
+      cards_white_empire_12: 7435525726703852877
+      cards_white_empire_13: -920983697976344993
+      cards_white_empire_14: -8576942067350181538
+      cards_white_empire_15: 6713285222874116896
+      cards_white_empire_16: -7250744699547791290
+      cards_white_empire_17: 7812395222157950983
+      cards_white_empire_18: 164123005315546714
+      cards_white_empire_19: -7989362335897942999
+      cards_white_empire_2: 1001956102957300722
+      cards_white_empire_20: -7976129247541668749
+      cards_white_empire_21: 2117758661708418700
+      cards_white_empire_22: -7962982255650719871
+      cards_white_empire_23: 977338310278247902
+      cards_white_empire_24: 5514870351047761449
+      cards_white_empire_25: -6845327857205411031
+      cards_white_empire_26: 3065465678711170773
+      cards_white_empire_27: 893452803972039958
+      cards_white_empire_28: 4569450407478252486
+      cards_white_empire_29: -2226831438534748102
+      cards_white_empire_3: -960021468611514600
+      cards_white_empire_30: -8189589236783653731
+      cards_white_empire_31: -2934848559388773520
+      cards_white_empire_32: -1695512542164281465
+      cards_white_empire_33: -6937347910620614834
+      cards_white_empire_34: 8948940528058645641
+      cards_white_empire_35: -5692732046709239757
+      cards_white_empire_36: -5213811844288537881
+      cards_white_empire_37: 6933470050833092304
+      cards_white_empire_38: -5610794769512657821
+      cards_white_empire_39: -6716279233828958356
+      cards_white_empire_4: 5246364849788378743
+      cards_white_empire_40: -3719216301388365468
+      cards_white_empire_41: 5902749718556990817
+      cards_white_empire_42: 4537184922373393198
+      cards_white_empire_43: 3149175947193756710
+      cards_white_empire_44: 502590803886303811
+      cards_white_empire_45: -7746956538112578235
+      cards_white_empire_46: 3801947955091020034
+      cards_white_empire_47: -5577907208831474136
+      cards_white_empire_48: -3798798362066534962
+      cards_white_empire_49: -6233099969824726991
+      cards_white_empire_5: -2229331599151718090
+      cards_white_empire_50: 5433737981168944576
+      cards_white_empire_51: -6160839913573301323
+      cards_white_empire_52: -4715346902868139222
+      cards_white_empire_53: 457461557219405624
+      cards_white_empire_54: 6429903578938967820
+      cards_white_empire_55: -16860532927666532
+      cards_white_empire_6: 4093753095831367728
+      cards_white_empire_7: 6969111433299448765
+      cards_white_empire_8: 1080901345354961470
+      cards_white_empire_9: -1900806527795885215
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

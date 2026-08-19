@@ -1,0 +1,1586 @@
+fileFormatVersion: 2
+guid: 3bba756060d362a4ea8b507eef988056
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 524117922931112271
+    second: cards_vintage_charlemagn_0
+  - first:
+      213: -3366890342102671572
+    second: cards_vintage_charlemagn_1
+  - first:
+      213: -9089574053388058238
+    second: cards_vintage_charlemagn_2
+  - first:
+      213: -891060759055717123
+    second: cards_vintage_charlemagn_3
+  - first:
+      213: 4194115545501382614
+    second: cards_vintage_charlemagn_4
+  - first:
+      213: 3620595683343101621
+    second: cards_vintage_charlemagn_5
+  - first:
+      213: 4701231659688426343
+    second: cards_vintage_charlemagn_6
+  - first:
+      213: 8948611897406585091
+    second: cards_vintage_charlemagn_7
+  - first:
+      213: -777557364746671867
+    second: cards_vintage_charlemagn_8
+  - first:
+      213: -5198701997903867219
+    second: cards_vintage_charlemagn_9
+  - first:
+      213: 3752530751073597455
+    second: cards_vintage_charlemagn_10
+  - first:
+      213: 8389342111915295991
+    second: cards_vintage_charlemagn_11
+  - first:
+      213: 876855403601496388
+    second: cards_vintage_charlemagn_12
+  - first:
+      213: 5178544292805859950
+    second: cards_vintage_charlemagn_13
+  - first:
+      213: 6247982641557133602
+    second: cards_vintage_charlemagn_14
+  - first:
+      213: -733322000188505234
+    second: cards_vintage_charlemagn_15
+  - first:
+      213: -3962500588680970391
+    second: cards_vintage_charlemagn_16
+  - first:
+      213: -6725039088608214612
+    second: cards_vintage_charlemagn_17
+  - first:
+      213: -2374913047214790815
+    second: cards_vintage_charlemagn_18
+  - first:
+      213: -4027989349469191652
+    second: cards_vintage_charlemagn_19
+  - first:
+      213: 2533180918781942191
+    second: cards_vintage_charlemagn_20
+  - first:
+      213: -3158506373122879189
+    second: cards_vintage_charlemagn_21
+  - first:
+      213: -8515870166770223069
+    second: cards_vintage_charlemagn_22
+  - first:
+      213: -1817058267932898298
+    second: cards_vintage_charlemagn_23
+  - first:
+      213: 5651513191388128220
+    second: cards_vintage_charlemagn_24
+  - first:
+      213: 7552482768476514618
+    second: cards_vintage_charlemagn_25
+  - first:
+      213: -3899859598746513468
+    second: cards_vintage_charlemagn_26
+  - first:
+      213: 3009060158983401172
+    second: cards_vintage_charlemagn_27
+  - first:
+      213: 3470027828840924119
+    second: cards_vintage_charlemagn_28
+  - first:
+      213: 4462090977285254967
+    second: cards_vintage_charlemagn_29
+  - first:
+      213: 2805454156083432755
+    second: cards_vintage_charlemagn_30
+  - first:
+      213: -3531232584961570516
+    second: cards_vintage_charlemagn_31
+  - first:
+      213: -5550710436781512208
+    second: cards_vintage_charlemagn_32
+  - first:
+      213: -5975213042507629158
+    second: cards_vintage_charlemagn_33
+  - first:
+      213: 710337611028764594
+    second: cards_vintage_charlemagn_34
+  - first:
+      213: -9100623099052214853
+    second: cards_vintage_charlemagn_35
+  - first:
+      213: 8229855610292521798
+    second: cards_vintage_charlemagn_36
+  - first:
+      213: 408979082960455257
+    second: cards_vintage_charlemagn_37
+  - first:
+      213: -9068947560488777276
+    second: cards_vintage_charlemagn_38
+  - first:
+      213: 2070633420758467627
+    second: cards_vintage_charlemagn_39
+  - first:
+      213: 7299710142426071877
+    second: cards_vintage_charlemagn_40
+  - first:
+      213: 4672596269169189722
+    second: cards_vintage_charlemagn_41
+  - first:
+      213: -4035177973658550734
+    second: cards_vintage_charlemagn_42
+  - first:
+      213: 5218753139527203128
+    second: cards_vintage_charlemagn_43
+  - first:
+      213: 6325425565440141341
+    second: cards_vintage_charlemagn_44
+  - first:
+      213: 3394850962388662502
+    second: cards_vintage_charlemagn_45
+  - first:
+      213: -8747608199881180659
+    second: cards_vintage_charlemagn_46
+  - first:
+      213: -5171974318020121709
+    second: cards_vintage_charlemagn_47
+  - first:
+      213: 5573971257116738070
+    second: cards_vintage_charlemagn_48
+  - first:
+      213: 7150199012614325041
+    second: cards_vintage_charlemagn_49
+  - first:
+      213: -8934460342797153043
+    second: cards_vintage_charlemagn_50
+  - first:
+      213: -3388064985626550150
+    second: cards_vintage_charlemagn_51
+  - first:
+      213: 2912110064336283267
+    second: cards_vintage_charlemagn_52
+  - first:
+      213: -215766567780812235
+    second: cards_vintage_charlemagn_53
+  - first:
+      213: -4487654345467273069
+    second: cards_vintage_charlemagn_54
+  - first:
+      213: 2208788234380753628
+    second: cards_vintage_charlemagn_55
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: cards_vintage_charlemagn_0
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1945
+        width: 347
+        height: 521
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4979b8597a064700800000000000000
+      internalID: 524117922931112271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cards_vintage_charlemagn_1
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 1945
+        width: 347
+        height: 521
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2fd64982176641d0800000000000000
+      internalID: -3366890342102671572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cards_vintage_charlemagn_2
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 1945
+        width: 348
+        height: 521
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 281823c9e885bd180800000000000000
+      internalID: -9089574053388058238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cards_vintage_charlemagn_3
+      rect:
+        serializedVersion: 2
+        x: 1330
+        y: 1945
+        width: 347
+        height: 521
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfca13fe5f052a3f0800000000000000
+      internalID: -891060759055717123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cards_vintage_charlemagn_4
+      rect:
+        serializedVersion: 2
+        x: 1741
+        y: 1945
+        width: 347
+        height: 521
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d7bd840edd743a30800000000000000
+      internalID: 4194115545501382614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cards_vintage_charlemagn_5
+      rect:
+        serializedVersion: 2
+        x: 2152
+        y: 1945
+        width: 348
+        height: 521
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5be6afc5790fe3230800000000000000
+      internalID: 3620595683343101621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cards_vintage_charlemagn_6
+      rect:
+        serializedVersion: 2
+        x: 2564
+        y: 1945
+        width: 347
+        height: 521
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76b7c8a49412e3140800000000000000
+      internalID: 4701231659688426343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cards_vintage_charlemagn_7
+      rect:
+        serializedVersion: 2
+        x: 2975
+        y: 1945
+        width: 347
+        height: 521
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 309f0c1eb1bdf2c70800000000000000
+      internalID: 8948611897406585091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cards_vintage_charlemagn_8
+      rect:
+        serializedVersion: 2
+        x: 3386
+        y: 1945
+        width: 348
+        height: 521
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50929c942bf8535f0800000000000000
+      internalID: -777557364746671867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cards_vintage_charlemagn_9
+      rect:
+        serializedVersion: 2
+        x: 3798
+        y: 1945
+        width: 347
+        height: 521
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da293d9a3108ad7b0800000000000000
+      internalID: -5198701997903867219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cards_vintage_charlemagn_10
+      rect:
+        serializedVersion: 2
+        x: 4209
+        y: 1945
+        width: 347
+        height: 521
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f08b87a16daa31430800000000000000
+      internalID: 3752530751073597455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cards_vintage_charlemagn_11
+      rect:
+        serializedVersion: 2
+        x: 4620
+        y: 1945
+        width: 348
+        height: 521
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f4cfefb33eec6470800000000000000
+      internalID: 8389342111915295991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cards_vintage_charlemagn_12
+      rect:
+        serializedVersion: 2
+        x: 5032
+        y: 1945
+        width: 347
+        height: 521
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4498c0308573b2c00800000000000000
+      internalID: 876855403601496388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cards_vintage_charlemagn_13
+      rect:
+        serializedVersion: 2
+        x: 5443
+        y: 1945
+        width: 347
+        height: 521
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6ad152e892edd740800000000000000
+      internalID: 5178544292805859950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cards_vintage_charlemagn_14
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1325
+        width: 347
+        height: 520
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 229d1d8fb1b45b650800000000000000
+      internalID: 6247982641557133602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cards_vintage_charlemagn_15
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 1325
+        width: 347
+        height: 520
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6309c0b687b2d5f0800000000000000
+      internalID: -733322000188505234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cards_vintage_charlemagn_16
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 1325
+        width: 348
+        height: 520
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96ff46575be5209c0800000000000000
+      internalID: -3962500588680970391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cards_vintage_charlemagn_17
+      rect:
+        serializedVersion: 2
+        x: 1330
+        y: 1325
+        width: 347
+        height: 520
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca104e6649cdba2a0800000000000000
+      internalID: -6725039088608214612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cards_vintage_charlemagn_18
+      rect:
+        serializedVersion: 2
+        x: 1741
+        y: 1325
+        width: 347
+        height: 520
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16762589a2d9a0fd0800000000000000
+      internalID: -2374913047214790815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cards_vintage_charlemagn_19
+      rect:
+        serializedVersion: 2
+        x: 2152
+        y: 1325
+        width: 348
+        height: 520
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1205d12705b918c0800000000000000
+      internalID: -4027989349469191652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cards_vintage_charlemagn_20
+      rect:
+        serializedVersion: 2
+        x: 2564
+        y: 1325
+        width: 347
+        height: 520
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa99bcfcf9aa72320800000000000000
+      internalID: 2533180918781942191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cards_vintage_charlemagn_21
+      rect:
+        serializedVersion: 2
+        x: 2975
+        y: 1325
+        width: 347
+        height: 520
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b211439203bba24d0800000000000000
+      internalID: -3158506373122879189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cards_vintage_charlemagn_22
+      rect:
+        serializedVersion: 2
+        x: 3386
+        y: 1325
+        width: 348
+        height: 520
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 328705cc33d81d980800000000000000
+      internalID: -8515870166770223069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cards_vintage_charlemagn_23
+      rect:
+        serializedVersion: 2
+        x: 3798
+        y: 1325
+        width: 347
+        height: 520
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60c4cabe12388c6e0800000000000000
+      internalID: -1817058267932898298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cards_vintage_charlemagn_24
+      rect:
+        serializedVersion: 2
+        x: 4209
+        y: 1325
+        width: 347
+        height: 520
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd3af18fd453e6e40800000000000000
+      internalID: 5651513191388128220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cards_vintage_charlemagn_25
+      rect:
+        serializedVersion: 2
+        x: 4620
+        y: 1325
+        width: 348
+        height: 520
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a392d4b201fcfc860800000000000000
+      internalID: 7552482768476514618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cards_vintage_charlemagn_26
+      rect:
+        serializedVersion: 2
+        x: 5032
+        y: 1325
+        width: 347
+        height: 520
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cf01d67b5ae0e9c0800000000000000
+      internalID: -3899859598746513468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cards_vintage_charlemagn_27
+      rect:
+        serializedVersion: 2
+        x: 5443
+        y: 1325
+        width: 347
+        height: 520
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4de6cfb954452c920800000000000000
+      internalID: 3009060158983401172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cards_vintage_charlemagn_28
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 704
+        width: 347
+        height: 520
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d388c2ece3082030800000000000000
+      internalID: 3470027828840924119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cards_vintage_charlemagn_29
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 704
+        width: 347
+        height: 520
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73f20984a188ced30800000000000000
+      internalID: 4462090977285254967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cards_vintage_charlemagn_30
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 704
+        width: 348
+        height: 520
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33d0ff6e0b9fee620800000000000000
+      internalID: 2805454156083432755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cards_vintage_charlemagn_31
+      rect:
+        serializedVersion: 2
+        x: 1330
+        y: 704
+        width: 347
+        height: 520
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c29c41a5caa8efec0800000000000000
+      internalID: -3531232584961570516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cards_vintage_charlemagn_32
+      rect:
+        serializedVersion: 2
+        x: 1741
+        y: 704
+        width: 347
+        height: 520
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f9a594444ae7f2b0800000000000000
+      internalID: -5550710436781512208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cards_vintage_charlemagn_33
+      rect:
+        serializedVersion: 2
+        x: 2152
+        y: 704
+        width: 348
+        height: 520
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9d3d085567c31da0800000000000000
+      internalID: -5975213042507629158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cards_vintage_charlemagn_34
+      rect:
+        serializedVersion: 2
+        x: 2564
+        y: 704
+        width: 347
+        height: 520
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b718ff2b40abd900800000000000000
+      internalID: 710337611028764594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cards_vintage_charlemagn_35
+      rect:
+        serializedVersion: 2
+        x: 2975
+        y: 704
+        width: 347
+        height: 520
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb53742328714b180800000000000000
+      internalID: -9100623099052214853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cards_vintage_charlemagn_36
+      rect:
+        serializedVersion: 2
+        x: 3386
+        y: 704
+        width: 348
+        height: 520
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64bcd3ce212563270800000000000000
+      internalID: 8229855610292521798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cards_vintage_charlemagn_37
+      rect:
+        serializedVersion: 2
+        x: 3798
+        y: 704
+        width: 347
+        height: 520
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9564c602f4cfca500800000000000000
+      internalID: 408979082960455257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cards_vintage_charlemagn_38
+      rect:
+        serializedVersion: 2
+        x: 4209
+        y: 704
+        width: 347
+        height: 520
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c9cb6a3e30a42280800000000000000
+      internalID: -9068947560488777276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cards_vintage_charlemagn_39
+      rect:
+        serializedVersion: 2
+        x: 4620
+        y: 704
+        width: 348
+        height: 520
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b244c50202e5cbc10800000000000000
+      internalID: 2070633420758467627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cards_vintage_charlemagn_40
+      rect:
+        serializedVersion: 2
+        x: 5032
+        y: 704
+        width: 347
+        height: 520
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5434f92f2b7cd4560800000000000000
+      internalID: 7299710142426071877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cards_vintage_charlemagn_41
+      rect:
+        serializedVersion: 2
+        x: 5443
+        y: 704
+        width: 347
+        height: 520
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5325a2ec8568d040800000000000000
+      internalID: 4672596269169189722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cards_vintage_charlemagn_42
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 83
+        width: 347
+        height: 521
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23ef992230b2008c0800000000000000
+      internalID: -4035177973658550734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cards_vintage_charlemagn_43
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 83
+        width: 347
+        height: 521
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83939fb845cbc6840800000000000000
+      internalID: 5218753139527203128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cards_vintage_charlemagn_44
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 83
+        width: 348
+        height: 521
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d18eb39c90d68c750800000000000000
+      internalID: 6325425565440141341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cards_vintage_charlemagn_45
+      rect:
+        serializedVersion: 2
+        x: 1330
+        y: 83
+        width: 347
+        height: 521
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e8b19ea6feec1f20800000000000000
+      internalID: 3394850962388662502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cards_vintage_charlemagn_46
+      rect:
+        serializedVersion: 2
+        x: 1741
+        y: 83
+        width: 347
+        height: 521
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0ab9c360b04a9680800000000000000
+      internalID: -8747608199881180659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cards_vintage_charlemagn_47
+      rect:
+        serializedVersion: 2
+        x: 2152
+        y: 83
+        width: 348
+        height: 521
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39ba7f292c47938b0800000000000000
+      internalID: -5171974318020121709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cards_vintage_charlemagn_48
+      rect:
+        serializedVersion: 2
+        x: 2564
+        y: 83
+        width: 347
+        height: 521
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6124ea08359ba5d40800000000000000
+      internalID: 5573971257116738070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cards_vintage_charlemagn_49
+      rect:
+        serializedVersion: 2
+        x: 2975
+        y: 83
+        width: 347
+        height: 521
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 133c93c5e1c9a3360800000000000000
+      internalID: 7150199012614325041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cards_vintage_charlemagn_50
+      rect:
+        serializedVersion: 2
+        x: 3386
+        y: 83
+        width: 348
+        height: 521
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: decc2cfa7ab620480800000000000000
+      internalID: -8934460342797153043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cards_vintage_charlemagn_51
+      rect:
+        serializedVersion: 2
+        x: 3798
+        y: 83
+        width: 347
+        height: 521
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a706ac7a8dc2bf0d0800000000000000
+      internalID: -3388064985626550150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cards_vintage_charlemagn_52
+      rect:
+        serializedVersion: 2
+        x: 4209
+        y: 83
+        width: 347
+        height: 521
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 386aa9baca4e96820800000000000000
+      internalID: 2912110064336283267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cards_vintage_charlemagn_53
+      rect:
+        serializedVersion: 2
+        x: 4620
+        y: 83
+        width: 348
+        height: 521
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53af4052371710df0800000000000000
+      internalID: -215766567780812235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cards_vintage_charlemagn_54
+      rect:
+        serializedVersion: 2
+        x: 5032
+        y: 83
+        width: 347
+        height: 521
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3906faf3626a8b1c0800000000000000
+      internalID: -4487654345467273069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cards_vintage_charlemagn_55
+      rect:
+        serializedVersion: 2
+        x: 5443
+        y: 83
+        width: 347
+        height: 521
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdab35e423137ae10800000000000000
+      internalID: 2208788234380753628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      cards_vintage_charlemagn_0: 524117922931112271
+      cards_vintage_charlemagn_1: -3366890342102671572
+      cards_vintage_charlemagn_10: 3752530751073597455
+      cards_vintage_charlemagn_11: 8389342111915295991
+      cards_vintage_charlemagn_12: 876855403601496388
+      cards_vintage_charlemagn_13: 5178544292805859950
+      cards_vintage_charlemagn_14: 6247982641557133602
+      cards_vintage_charlemagn_15: -733322000188505234
+      cards_vintage_charlemagn_16: -3962500588680970391
+      cards_vintage_charlemagn_17: -6725039088608214612
+      cards_vintage_charlemagn_18: -2374913047214790815
+      cards_vintage_charlemagn_19: -4027989349469191652
+      cards_vintage_charlemagn_2: -9089574053388058238
+      cards_vintage_charlemagn_20: 2533180918781942191
+      cards_vintage_charlemagn_21: -3158506373122879189
+      cards_vintage_charlemagn_22: -8515870166770223069
+      cards_vintage_charlemagn_23: -1817058267932898298
+      cards_vintage_charlemagn_24: 5651513191388128220
+      cards_vintage_charlemagn_25: 7552482768476514618
+      cards_vintage_charlemagn_26: -3899859598746513468
+      cards_vintage_charlemagn_27: 3009060158983401172
+      cards_vintage_charlemagn_28: 3470027828840924119
+      cards_vintage_charlemagn_29: 4462090977285254967
+      cards_vintage_charlemagn_3: -891060759055717123
+      cards_vintage_charlemagn_30: 2805454156083432755
+      cards_vintage_charlemagn_31: -3531232584961570516
+      cards_vintage_charlemagn_32: -5550710436781512208
+      cards_vintage_charlemagn_33: -5975213042507629158
+      cards_vintage_charlemagn_34: 710337611028764594
+      cards_vintage_charlemagn_35: -9100623099052214853
+      cards_vintage_charlemagn_36: 8229855610292521798
+      cards_vintage_charlemagn_37: 408979082960455257
+      cards_vintage_charlemagn_38: -9068947560488777276
+      cards_vintage_charlemagn_39: 2070633420758467627
+      cards_vintage_charlemagn_4: 4194115545501382614
+      cards_vintage_charlemagn_40: 7299710142426071877
+      cards_vintage_charlemagn_41: 4672596269169189722
+      cards_vintage_charlemagn_42: -4035177973658550734
+      cards_vintage_charlemagn_43: 5218753139527203128
+      cards_vintage_charlemagn_44: 6325425565440141341
+      cards_vintage_charlemagn_45: 3394850962388662502
+      cards_vintage_charlemagn_46: -8747608199881180659
+      cards_vintage_charlemagn_47: -5171974318020121709
+      cards_vintage_charlemagn_48: 5573971257116738070
+      cards_vintage_charlemagn_49: 7150199012614325041
+      cards_vintage_charlemagn_5: 3620595683343101621
+      cards_vintage_charlemagn_50: -8934460342797153043
+      cards_vintage_charlemagn_51: -3388064985626550150
+      cards_vintage_charlemagn_52: 2912110064336283267
+      cards_vintage_charlemagn_53: -215766567780812235
+      cards_vintage_charlemagn_54: -4487654345467273069
+      cards_vintage_charlemagn_55: 2208788234380753628
+      cards_vintage_charlemagn_6: 4701231659688426343
+      cards_vintage_charlemagn_7: 8948611897406585091
+      cards_vintage_charlemagn_8: -777557364746671867
+      cards_vintage_charlemagn_9: -5198701997903867219
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
